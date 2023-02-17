@@ -1,0 +1,1561 @@
+,street,number,postal_code,neighbourhood,region,latitude,longitude,name
+0,Oslo Gate,18,192,Gamle Oslo,Oslo,59.905077,10.767659,Oslo Gate 18
+1,Osterhaus'' Gate,7,183,hammer,Oslo,59.915864,10.754429,Osterhaus'' Gate 7
+2,Breigata,12,187,Enerhaugen,Oslo,59.914069,10.76123,Breigata 12
+3,Grensen,20,180,hammer,Oslo,59.914377,10.741273,Grensen 20
+4,Ullevålsveien,95,359,Bislett,Oslo,59.932711,10.733718,Ullevålsveien 95
+5,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+6,Sandakerveien,102D,484,Torshov,Oslo,59.944756,10.771561,Sandakerveien 102D
+7,Torggata,35,183,hammer,Oslo,59.917298,10.754027,Torggata 35
+8,Grundingen,2,250,Aker Brygge,Oslo,59.910351,10.727818,Grundingen 2
+9,Oscars Gate,81,256,Ruselokka,Oslo,59.915955,10.71699,Oscars Gate 81
+10,Arbeidergata,2,159,hammer,Oslo,59.914499,10.74084,Arbeidergata 2
+11,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+12,Heimdalsgata,37,578,Enerhaugen,Oslo,59.914111,10.767301,Heimdalsgata 37
+13,Stranden,71,250,Aker Brygge,Oslo,59.908798,10.724357,Stranden 71
+14,Skovveien,3,257,Ruselokka,Oslo,59.9159,10.716192,Skovveien 3
+15,Erich Mogensøns Vei,38,594,Erich Mogensøns Vei,Oslo,59.943242,10.835478,Erich Mogensøns Vei 38
+16,Vogts gate,45B,477,Torshov,Oslo,59.934189,10.764368,Vogts gate 45B
+17,Bernt Ankers gate,37,183,hammer,Oslo,59.917023,10.75027,Bernt Ankers gate 37
+18,Nedre Slottsgate,8,157,St. Hanshaugen,Oslo,59.91216,10.742763,Nedre Slottsgate 8
+19,Bergensveien,2,963,Ammerud,Oslo,59.959893,10.881241,Bergensveien 2
+20,Karl Johans Gate,39,162,Vika,Oslo,59.914315,10.737652,Karl Johans Gate 39
+21,Ullveien,4B,791,Lysebu,Oslo,59.975541,10.66468,Ullveien 4B
+22,,,0,Skøyen,Oslo,59.91367,10.64475,Drammensveien 288
+23,Romsdalsgata,1C,556,Torshov,Oslo,59.927417,10.7644,Romsdalsgata 1C
+24,Helgesens gate,16C,553,Fredensborg,Oslo,59.924627,10.759033,Helgesens gate 16C
+25,Bernt Ankers gate,27,183,hammer,Oslo,59.916472,10.751166,Bernt Ankers gate 27
+26,Fridtjof Nansens Plass,2,160,Vika,Oslo,59.912946,10.733441,Fridtjof Nansens Plass 2
+27,Holmenveien,11,374,Ris,Oslo,59.943411,10.699794,Holmenveien 11
+28,Sigurds Gate,16,650,Grønland,Oslo,59.912542,10.77387,Sigurds Gate 16
+29,Youngs gate,19,181,hammer,Oslo,59.915119,10.750084,Youngs gate 19
+30,Skøyenveien,43,375,Gimlé,Oslo,59.929176,10.687622,Skøyenveien 43
+31,,,0,Kjelsås,Oslo,59.979252,10.817667,Solemskogen
+32,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+33,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+34,Karenslyst Allé,2,278,Gimlé,Oslo,59.918396,10.686283,Karenslyst Allé 2
+35,Thereses Gate,45,354,Bislett,Oslo,59.92654,10.731155,Thereses Gate 45
+36,Bygdøy Allé,59,265,Gimlé,Oslo,59.918587,10.705045,Bygdøy Allé 59
+37,Fredensborgveien,9B,177,hammer,Oslo,59.91787,10.747492,Fredensborgveien 9B
+38,Ekebergveien,228,1162,Ekebergveien,Oslo,59.861331,10.800955,Ekebergveien 228
+39,Stortingsgata,20,161,Vika,Oslo,59.91376,10.734885,Stortingsgata 20
+40,Hausmanns Gate,8,182,hammer,Oslo,59.917118,10.755666,Hausmanns Gate 8
+41,Hausmanns Gate,6,186,Enerhaugen,Oslo,59.915704,10.758676,Hausmanns Gate 6
+42,Thorvald Meyers Gate,64,552,Enerhaugen,Oslo,59.921402,10.759434,Thorvald Meyers Gate 64
+43,Bøkkerveien,4,579,Økern,Oslo,59.92698,10.793998,Bøkkerveien 4
+44,Ruseløkkveien,26,251,Vika,Oslo,59.912665,10.726153,Ruseløkkveien 26
+45,Brugata,11,186,Vaterland,Oslo,59.913825,10.756473,Brugata 11
+46,Norbygata,56,190,Vaterland,Oslo,59.913141,10.765646,Norbygata 56
+47,,,0,Tveita,Oslo,59.926288,10.847765,Alna senter
+48,Frognerveien,1A,257,Ruselokka,Oslo,59.915147,10.717611,Frognerveien 1A
+49,Arbeidergata,2,159,hammer,Oslo,59.914499,10.74084,Arbeidergata 2
+50,Hoffsveien,92,377,Smedstad,Oslo,59.936898,10.683487,Hoffsveien 92
+51,Hegdehaugsveien,34,352,Homansbyen,Oslo,59.922675,10.726310999999999,Hegdehaugsveien 34
+52,Kirkegata,34,153,St. Hanshaugen,Oslo,59.911764,10.745347,Kirkegata 34
+53,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+54,Karenslyst Allé,55,277,Skøyen,Oslo,59.921501,10.67841,Karenslyst Allé 55
+55,Bogstadveien,20,355,Bislett,Oslo,59.925211,10.722674,Bogstadveien 20
+56,Thorvald Meyers gate,27A,555,Fredensborg,Oslo,59.926834,10.758914,Thorvald Meyers gate 27A
+57,Sørengkaia,163,194,St. Hanshaugen,Oslo,59.902285,10.752083,Sørengkaia 163
+58,Kjelsåsveien,18,488,Kjelsås,Oslo,59.944225,10.786392,Kjelsåsveien 18
+59,Holmenkollveien,119,787,Holmenkollen,Oslo,59.961112,10.667218,Holmenkollveien 119
+60,Brugata,8,186,hammer,Oslo,59.914075,10.754443,Brugata 8
+61,Thorvald Meyers gate,61,552,Fredensborg,Oslo,59.922088,10.759126,Thorvald Meyers gate 61
+62,Thorvald Meyers gate,78B,550,Enerhaugen,Oslo,59.918888,10.759708,Thorvald Meyers gate 78B
+63,Sørkedalsveien,5B,369,Majorstuen,Oslo,59.930691,10.712197,Sørkedalsveien 5B
+64,Hammersborggata,9,181,hammer,Oslo,59.915036,10.752189,Hammersborggata 9
+65,Storgata,39,182,hammer,Oslo,59.915126,10.754685,Storgata 39
+66,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+67,Bogstadveien,36,366,Bislett,Oslo,59.926796,10.720213,Bogstadveien 36
+68,Bøkkerveien,11,579,Økern,Oslo,59.92739,10.79616,Bøkkerveien 11
+69,Ekebergveien,44,196,Gamle Oslo,Oslo,59.900943,10.778123,Ekebergveien 44
+70,Carl Berners plass,2,568,Sindsen,Oslo,59.926437,10.776118,Carl Berners plass 2
+71,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+72,Jernbanetorget,4,154,St. Hanshaugen,Oslo,59.911685,10.749770999999999,Jernbanetorget 4
+73,Bogstadveien,60,366,Majorstuen,Oslo,59.928194,10.717023,Bogstadveien 60
+74,Sandtakveien,5,491,Kjelsås,Oslo,59.955208,10.794138,Sandtakveien 5
+75,Møllefaret,72G,750,Rud,Oslo,59.938543,10.633435,Møllefaret 72G
+76,Sandakerveien,102D,484,Torshov,Oslo,59.944756,10.771561,Sandakerveien 102D
+77,Nils Bays vei,78,855,Sogn,Oslo,59.951139,10.734874,Nils Bays vei 78
+78,Josefines Gate,36,351,Homansbyen,Oslo,59.921636,10.723583,Josefines Gate 36
+79,Sommerrogata,1,255,Ruselokka,Oslo,59.915245,10.719612,Sommerrogata 1
+80,Karl Johans gate,26,162,Vika,Oslo,59.914823,10.734686,Karl Johans gate 26
+81,Kirkegata,15,153,St. Hanshaugen,Oslo,59.910246,10.743444,Kirkegata 15
+82,Nordstrandveien,40,1163,Ekebergveien,Oslo,59.861009,10.801586,Nordstrandveien 40
+83,Nordre Gate,18,551,Fredensborg,Oslo,59.921146,10.757604,Nordre Gate 18
+84,Trondheimsveien,5,560,Enerhaugen,Oslo,59.918179,10.760705,Trondheimsveien 5
+85,,,0,Enerhaugen,Oslo,59.914814,10.766308,Nr. 13
+86,Sandakerveien,59,477,Torshov,Oslo,59.938435,10.768473,Sandakerveien 59
+87,Grundingen,1,250,Aker Brygge,Oslo,59.910464,10.728074,Grundingen 1
+88,Ole Deviks Vei,26,666,Bryn,Oslo,59.917132,10.827849,Ole Deviks Vei 26
+89,Sørkedalsveien,1014,758,,Oslo,60.016797,10.612043,Sørkedalsveien 1014
+90,Problemveien,11,313,Blindernveien,Oslo,59.940508,10.721292,Problemveien 11
+91,Torggata,18,181,hammer,Oslo,59.916126,10.751136,Torggata 18
+92,,,0,Briskeby,Oslo,59.927584,10.698691,Nr. 12: Gutteslagsmål
+93,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+94,Arbins gate,13B,253,Ruselokka,Oslo,59.913935,10.725732,Arbins gate 13B
+95,Sofies gate,15B,170,Homansbyen,Oslo,59.922793,10.735818,Sofies gate 15B
+96,Frognerveien,1A,257,Ruselokka,Oslo,59.915147,10.717611,Frognerveien 1A
+97,Sørkedalsveien,106,378,Smedstad,Oslo,59.941488,10.671457,Sørkedalsveien 106
+98,Grefsenveien,94B,492,Kjelsås,Oslo,59.956074,10.785267,Grefsenveien 94B
+99,Sandakerveien,106,484,Torshov,Oslo,59.945217,10.771976,Sandakerveien 106
+100,Thorvald Meyers Gate,48,552,Fredensborg,Oslo,59.922952,10.759809,Thorvald Meyers Gate 48
+101,Universitetsgata,11,164,hammer,Oslo,59.916706,10.738472999999999,Universitetsgata 11
+102,Voksenkollveien,60,790,Holmenkollen,Oslo,59.975071,10.655643,Voksenkollveien 60
+103,Youngstorget,3,181,hammer,Oslo,59.914322,10.749272,Youngstorget 3
+104,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+105,Robert Levins gate,5,150,Vaterland,Oslo,59.908575,10.753516,Robert Levins gate 5
+106,Kirkeveien,48,368,Majorstuen,Oslo,59.927545,10.712825,Kirkeveien 48
+107,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+108,Deichmans Gate,6,178,hammer,Oslo,59.919191,10.749992,Deichmans Gate 6
+109,Sørengkaia,101,194,St. Hanshaugen,Oslo,59.902632,10.752881,Sørengkaia 101
+110,Vogts gate,64,477,Torshov,Oslo,59.936102,10.765475,Vogts gate 64
+111,Rådhusgata,27,158,Vika,Oslo,59.911155,10.735915,Rådhusgata 27
+112,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+113,Trondheimsveien,111C,565,Sindsen,Oslo,59.925692,10.77612,Trondheimsveien 111C
+114,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+115,Torshovgata,33,476,Torshov,Oslo,59.932835,10.768162,Torshovgata 33
+116,Tjuvholmen Allé,2,252,Aker Brygge,Oslo,59.908836,10.723155,Tjuvholmen Allé 2
+117,Operagata,39,194,Vaterland,Oslo,59.906813,10.756127,Operagata 39
+118,Lørenfaret,3,585,Økern,Oslo,59.930579,10.799143,Lørenfaret 3
+119,Fredensborgveien,44,177,hammer,Oslo,59.920487,10.749257,Fredensborgveien 44
+120,Rådhusgata,28,151,St. Hanshaugen,Oslo,59.909831,10.740738,Rådhusgata 28
+121,Torggata,24,183,hammer,Oslo,59.916567,10.752253,Torggata 24
+122,Grenseveien,32,571,Sindsen,Oslo,59.924925,10.781195,Grenseveien 32
+123,Kristian IVs gate,2,159,hammer,Oslo,59.914735,10.740364,Kristian IVs gate 2
+124,Vækerøveien,195C,751,Rud,Oslo,59.946182,10.642804,Vækerøveien 195C
+125,Vestlisvingen,188,969,Romsås,Oslo,59.972458,10.928115,Vestlisvingen 188
+126,Refstadveien,60,589,Tonsenhagen,Oslo,59.942519,10.811350000000001,Refstadveien 60
+127,Arendalsgata,14,463,Torshov,Oslo,59.937816,10.754056,Arendalsgata 14
+128,Operagata,71B,194,Vaterland,Oslo,59.906266,10.757979,Operagata 71B
+129,Fredensborgveien,13C,177,hammer,Oslo,59.918069,10.748039,Fredensborgveien 13C
+130,Helgesens gate,44B,553,Enerhaugen,Oslo,59.923651,10.76505,Helgesens gate 44B
+131,Bergensgata,5,468,Torshov,Oslo,59.941001,10.759633000000001,Bergensgata 5
+132,Maridalsveien,15,178,Fredensborg,Oslo,59.922647,10.751197,Maridalsveien 15
+133,Waldemar Thranes gate,72,175,Fredensborg,Oslo,59.928221,10.750506,Waldemar Thranes gate 72
+134,Huk aveny,56,287,Bygdøy,Oslo,59.89911,10.678159,Huk aveny 56
+135,Kingos Gate,15,457,Ila,Oslo,59.929739,10.751381,Kingos Gate 15
+136,Akershusstranda,13,150,Vika,Oslo,59.907633,10.734571,Akershusstranda 13
+137,Trondheimsveien,157,570,Sindsen,Oslo,59.93116,10.778807,Trondheimsveien 157
+138,Bryggegangen,6,252,Aker Brygge,Oslo,59.908671,10.721941,Bryggegangen 6
+139,,,0,Bøler,Oslo,59.890257,10.85279,Østmarka skole
+140,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+141,Karlstadgata,17,553,Torshov,Oslo,59.924777,10.764298,Karlstadgata 17
+142,,,0,Smedstad,Oslo,59.925603,10.674634,Hoffsveien 10
+143,Østensjøveien,79,667,Bryn,Oslo,59.903192,10.822458,Østensjøveien 79
+144,Stortingsgata,16,161,Vika,Oslo,59.913555,10.735851,Stortingsgata 16
+145,Wessels Gate,2,165,hammer,Oslo,59.919659,10.743019,Wessels Gate 2
+146,Youngstorget,3,181,hammer,Oslo,59.914322,10.749272,Youngstorget 3
+147,Nedre Prinsdals Vei,76,1263,Holmlia,Oslo,59.83306,10.808504,Nedre Prinsdals Vei 76
+148,Trygve Lies Plass,1,1051,Lindeberg,Oslo,59.942157,10.897744,Trygve Lies Plass 1
+149,Vålerenggata,13,657,Gamle Oslo,Oslo,59.907838,10.785645,Vålerenggata 13
+150,Seilduksgata,5,553,Fredensborg,Oslo,59.925336,10.756513,Seilduksgata 5
+151,Fridtjof Nansens Plass,5,160,Vika,Oslo,59.913222,10.734444,Fridtjof Nansens Plass 5
+152,Kjelsåsveien,143C,491,Nydalen,Oslo,59.966246,10.781107,Kjelsåsveien 143C
+153,Rosenkrantz'' Gate,11,159,hammer,Oslo,59.914329,10.739208,Rosenkrantz'' Gate 11
+154,Hagegata,22,653,Grønland,Oslo,59.914421,10.775439,Hagegata 22
+155,,,0,Høybråten,Oslo,59.961651,10.928757,Karl Fossums vei 30
+156,Parkveien,6,350,Homansbyen,Oslo,59.921397,10.730061,Parkveien 6
+157,Grenseveien,50,579,Tøyen,Oslo,59.92357,10.792794,Grenseveien 50
+158,Smalvollveien,34,667,Tveita,Oslo,59.91897,10.836196,Smalvollveien 34
+159,Karenslyst Allé,11,278,Skøyen,Oslo,59.920846,10.68283,Karenslyst Allé 11
+160,Niels Juels Gate,33,257,Ruselokka,Oslo,59.917426,10.715493,Niels Juels Gate 33
+161,Granbergstubben,16,1275,Rønning,Oslo,59.826419,10.836913,Granbergstubben 16
+162,Møllergata,8,179,hammer,Oslo,59.914181,10.746586,Møllergata 8
+163,Pilestredet Park,24,176,hammer,Oslo,59.918934,10.737309,Pilestredet Park 24
+164,Stortingsgata,4,158,Vika,Oslo,59.912838,10.738591,Stortingsgata 4
+165,Maridalsveien,13,178,Fredensborg,Oslo,59.92175,10.751527,Maridalsveien 13
+166,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+167,Oberst Rodes vei,46D,1152,Lambertseter,Oslo,59.870374,10.808127,Oberst Rodes vei 46D
+168,Grønland,14,188,Vaterland,Oslo,59.913129,10.760871,Grønland 14
+169,Dronning Eufemias gate,12,191,Vaterland,Oslo,59.908208,10.757428,Dronning Eufemias gate 12
+170,Skovveien,8,257,Ruselokka,Oslo,59.916363,10.716001,Skovveien 8
+171,Lilleakerveien,2C,283,Skøyen,Oslo,59.914726,10.638940999999999,Lilleakerveien 2C
+172,Ullevålsveien,41,171,Homansbyen,Oslo,59.923648,10.73978,Ullevålsveien 41
+173,St. Olavs plass,2,165,hammer,Oslo,59.918231,10.740283999999999,St. Olavs plass 2
+174,Europarådets plass,1,154,St. Hanshaugen,Oslo,59.911954,10.749291,Europarådets plass 1
+175,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+176,Wergelandsveien,17,167,Homansbyen,Oslo,59.91943,10.730615,Wergelandsveien 17
+177,Lysebuveien,12,790,Lysebu,Oslo,59.977237,10.655501,Lysebuveien 12
+178,Nils Hansens Vei,15,667,Helsfyr,Oslo,59.910794,10.8205,Nils Hansens Vei 15
+179,Osterhaus'' Gate,7,183,hammer,Oslo,59.915864,10.754429,Osterhaus'' Gate 7
+180,Stockfleths gate,53A,461,Ila,Oslo,59.936844,10.752464,Stockfleths gate 53A
+181,Lilleakerveien,23,283,Skøyen,Oslo,59.918945,10.636636,Lilleakerveien 23
+182,Grefsenveien,57,487,Nydalen,Oslo,59.94536,10.780555,Grefsenveien 57
+183,Vibes gate,11B,356,Bislett,Oslo,59.926517,10.72372,Vibes gate 11B
+184,Grensen,1,159,St. Hanshaugen,Oslo,59.91341,10.744698,Grensen 1
+185,Trondheimsveien,10C,560,Enerhaugen,Oslo,59.919524,10.764233,Trondheimsveien 10C
+186,Karl Johans gate,18 C,0,St. Hanshaugen,Oslo,59.912638,10.741861,Karl Johans gate 18 C
+187,Niels Juels gate,31,257,Ruselokka,Oslo,59.91678,10.714860999999999,Niels Juels gate 31
+188,Kongens Gate,8,153,St. Hanshaugen,Oslo,59.910205,10.7421,Kongens Gate 8
+189,Torggata,28,183,hammer,Oslo,59.916843,10.752728,Torggata 28
+190,Bygdøy allé,12,262,Ruselokka,Oslo,59.916002,10.712514,Bygdøy allé 12
+191,Gabels Gate,16,272,Skillebekk,Oslo,59.913655,10.70905,Gabels Gate 16
+192,Pilestredet,75,354,Bislett,Oslo,59.927378,10.728449,Pilestredet 75
+193,Lilletorget,1,184,Vaterland,Oslo,59.913501,10.755877,Lilletorget 1
+194,Turbinveien,26,195,Gamle Oslo,Oslo,59.904116,10.789531,Turbinveien 26
+195,Kaj Munks Vei,41,876,Korsvold,Oslo,59.952437,10.751197,Kaj Munks Vei 41
+196,Vogts gate,43,474,Torshov,Oslo,59.933476,10.763881,Vogts gate 43
+197,Carl Berners plass,2,568,Sindsen,Oslo,59.926437,10.776118,Carl Berners plass 2
+198,Landgangen,1,252,Aker Brygge,Oslo,59.907662,10.72105,Landgangen 1
+199,Odins gate,19A,266,Briskeby,Oslo,59.919504,10.708247,Odins gate 19A
+200,Karenslyst Allé,9,278,Skøyen,Oslo,59.920521,10.683642,Karenslyst Allé 9
+201,Kirkeveien,51,368,Majorstuen,Oslo,59.927656999999996,10.713796,Kirkeveien 51
+202,Keysers Gate,7,165,hammer,Oslo,59.916898,10.74246,Keysers Gate 7
+203,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+204,Øvre Slottsgate,3,157,Vika,Oslo,59.911002,10.74017,Øvre Slottsgate 3
+205,Bogstadveien,66,366,Majorstuen,Oslo,59.928664,10.715726,Bogstadveien 66
+206,Universitetsgata,11,164,hammer,Oslo,59.916706,10.738472999999999,Universitetsgata 11
+207,Pløens gate,4,181,hammer,Oslo,59.914168,10.748852,Pløens gate 4
+208,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+209,,,0,Skillebekk,Oslo,59.912647,10.711385,Skillebekkparken
+210,Bryggetorget,5,250,Aker Brygge,Oslo,59.910098,10.72464,Bryggetorget 5
+211,Kristian IV''s Gate,4,164,hammer,Oslo,59.914895,10.739744,Kristian IV''s Gate 4
+212,Pløens gate,4,181,hammer,Oslo,59.914168,10.748852,Pløens gate 4
+213,Sørengkaia,51,194,St. Hanshaugen,Oslo,59.903392,10.755541000000001,Sørengkaia 51
+214,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+215,Hegdehaugsveien,22B,167,Homansbyen,Oslo,59.920229,10.729995,Hegdehaugsveien 22B
+216,Sørengkaia,146,194,St. Hanshaugen,Oslo,59.901246,10.752265,Sørengkaia 146
+217,,,0,Aker Brygge,Oslo,59.910135,10.728725,Aker brygge
+218,Grønland,5,188,Vaterland,Oslo,59.913106,10.759545,Grønland 5
+219,Vækerøveien,207,751,Rud,Oslo,59.948303,10.643922,Vækerøveien 207
+220,Sognsveien,70B,855,Sogn,Oslo,59.948208,10.731483,Sognsveien 70B
+221,Operagata,17,194,Vaterland,Oslo,59.907213,10.756059,Operagata 17
+222,Fjordalléen,20,250,Aker Brygge,Oslo,59.909509,10.725055,Fjordalléen 20
+223,,,0,Torshov,Oslo,59.92897,10.758812,"Thorvald Meyersgate 7-11, nedre plan"
+224,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+225,Ruseløkkveien,26,251,Vika,Oslo,59.912665,10.726153,Ruseløkkveien 26
+226,Prinsens Gate,5,152,St. Hanshaugen,Oslo,59.9108,10.746303,Prinsens Gate 5
+227,Olav Kyrres gate,6F,273,Gimlé,Oslo,59.918252,10.69093,Olav Kyrres gate 6F
+228,,,0,hammer,Oslo,59.914924,10.753613,Bernt Ankers gate
+229,Olaf Ryes Plass,12,552,Fredensborg,Oslo,59.923489000000004,10.75863,Olaf Ryes Plass 12
+230,Motzfeldts Gate,3,187,Vaterland,Oslo,59.91352,10.762321,Motzfeldts Gate 3
+231,Prinsens Gate,5,152,St. Hanshaugen,Oslo,59.9108,10.746303,Prinsens Gate 5
+232,Karl Johans Gate,6,154,St. Hanshaugen,Oslo,59.911432,10.748067,Karl Johans Gate 6
+233,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+234,Granhekkveien,1,682,Opsal,Oslo,59.900682,10.825137999999999,Granhekkveien 1
+235,Henrik Ibsens gate,100,255,Ruselokka,Oslo,59.914153,10.718812,Henrik Ibsens gate 100
+236,Torggata,11,181,hammer,Oslo,59.914047,10.748477,Torggata 11
+237,Lørenfaret,1,585,Økern,Oslo,59.93072,10.800486,Lørenfaret 1
+238,Tordenskiolds Gate,6,160,Vika,Oslo,59.91278,10.736345,Tordenskiolds Gate 6
+239,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+240,Munkedamsveien,59B,244,Aker Brygge,Oslo,59.911043,10.721575,Munkedamsveien 59B
+241,Munkedamsveien,45,250,Aker Brygge,Oslo,59.911007,10.723824,Munkedamsveien 45
+242,Nedre Slottsgate,21,157,St. Hanshaugen,Oslo,59.912996,10.743176,Nedre Slottsgate 21
+243,,,0,Vaterland,Oslo,59.913104,10.761445,Kiwi Grønland 18
+244,Ekebergveien,228,1162,Ekebergveien,Oslo,59.861331,10.800955,Ekebergveien 228
+245,Torshovgata,2,476,Torshov,Oslo,59.934314,10.762764,Torshovgata 2
+246,Skinnerbakken,7,198,Bekkelaget,Oslo,59.865115,10.750253,Skinnerbakken 7
+247,Haakon VII''s Gate,6,161,Vika,Oslo,59.913406,10.730713,Haakon VII''s Gate 6
+248,,,0,Vaterland,Oslo,59.90721,10.756378,Munch brygge
+249,Pilestredet,27,164,hammer,Oslo,59.917595,10.738354,Pilestredet 27
+250,Kirkegårdsgata,7,558,Enerhaugen,Oslo,59.921286,10.763926,Kirkegårdsgata 7
+251,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+252,Grønlandsleiret,3,190,Vaterland,Oslo,59.912521,10.763129,Grønlandsleiret 3
+253,Fredensborgveien,22,177,hammer,Oslo,59.918547,10.747854,Fredensborgveien 22
+254,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+255,Vulkan,5,178,Fredensborg,Oslo,59.922164,10.752075,Mathallen
+256,Vogts gate,68,477,Torshov,Oslo,59.9369,10.766484,Vogts gate 68
+257,Kirkeveien,166,450,Ila,Oslo,59.936937,10.737055999999999,Kirkeveien 166
+258,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+259,Haugerudsenteret,1,673,Lindeberg,Oslo,59.922674,10.8564,Haugerudsenteret 1
+260,Teglverksgata,2,553,Enerhaugen,Oslo,59.923855,10.764673,Teglverksgata 2
+261,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+262,Operagata,73D,194,Vaterland,Oslo,59.906404,10.758657,Operagata 73D
+263,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+264,Bogstadveien,27,355,Bislett,Oslo,59.926346,10.721578,Bogstadveien 27
+265,Grønlandsleiret,14,190,Vaterland,Oslo,59.912381,10.765206,Grønlandsleiret 14
+266,Selma Ellefsens vei,2,581,Økern,Oslo,59.925423,10.807471,Selma Ellefsens vei 2
+267,Vulkan,12,178,Fredensborg,Oslo,59.921653,10.751795,Vulkan 12
+268,Kristian IV''s Gate,4,164,hammer,Oslo,59.914895,10.739744,Kristian IV''s Gate 4
+269,Toftes Gate,48,556,Fredensborg,Oslo,59.925891,10.761457,Toftes Gate 48
+270,Ingelbrecht Knudssøns Gate,11,365,Bislett,Oslo,59.927869,10.721686,Ingelbrecht Knudssøns Gate 11
+271,Stortingsgata,22,161,Vika,Oslo,59.913832,10.734752,Stortingsgata 22
+272,Munkedamsveien,62,270,Filipstad,Oslo,59.911394,10.71885,Munkedamsveien 62
+273,,,0,Torshov,Oslo,59.934733,10.761387,Myrens Verksted
+274,Akersgata,2,158,Vika,Oslo,59.910556,10.73903,Akersgata 2
+275,Torgny Segerstedts Vei,11,372,Blindernveien,Oslo,59.948355,10.723703,Torgny Segerstedts Vei 11
+276,Søndre Rød,3B,752,Rud,Oslo,59.943047,10.64531,Søndre Rød 3B
+277,Strømsveien,22,657,Helsfyr,Oslo,59.908881,10.786438,Strømsveien 22
+278,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+279,Økernveien,9,653,Grønland,Oslo,59.914864,10.77617,Økernveien 9
+280,Grensen,17,159,St. Hanshaugen,Oslo,59.91416,10.742571,Grensen 17
+281,Thorvald Meyers gate,76A,550,Enerhaugen,Oslo,59.919405,10.759701,Thorvald Meyers gate 76A
+282,Bergensgata,12A,468,Torshov,Oslo,59.94173,10.759237,Bergensgata 12A
+283,Vardeveien,14,1182,Manglerud,Oslo,59.895519,10.795686,Vardeveien 14
+284,Rådhusgaten,7,151,St. Hanshaugen,Oslo,59.909257,10.744012,Rådhusgaten 7
+285,Olaf Ryes plass,11,552,Fredensborg,Oslo,59.923492,10.758325,Olaf Ryes plass 11
+286,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+287,Lindemans Gate,4,267,Gimlé,Oslo,59.921879,10.703419,Lindemans Gate 4
+288,Bogstadveien,64,366,Majorstuen,Oslo,59.928574,10.716006,Bogstadveien 64
+289,Fredensborgveien,13C,177,hammer,Oslo,59.918069,10.748039,Fredensborgveien 13C
+290,Sigurd Hoels Vei,45,655,Tøyen,Oslo,59.917869,10.787464,Sigurd Hoels Vei 45
+291,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+292,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+293,Pilestredet,71,354,Homansbyen,Oslo,59.925394,10.730575,Pilestredet 71
+294,Ekebergveien,37,196,Gamle Oslo,Oslo,59.900983,10.776504,Ekebergveien 37
+295,Kirkeveien,59,364,Majorstuen,Oslo,59.928942,10.716447,DNB Majorstua
+296,Calmeyers Gate,9,183,hammer,Oslo,59.916252,10.754487,Calmeyers Gate 9
+297,Tollbugata,17,152,St. Hanshaugen,Oslo,59.910474,10.744385,Tollbugata 17
+298,Thorvald Meyers gate,33C,555,Fredensborg,Oslo,59.925827,10.758986,Thorvald Meyers gate 33C
+299,Torggata,23,183,hammer,Oslo,59.91662,10.752774,Torggata 23
+300,Storgata,47,182,hammer,Oslo,59.915589,10.755933,Storgata 47
+301,Kirsten Flagstads plass,1,150,St. Hanshaugen,Oslo,59.907777,10.752058,Kirsten Flagstads plass 1
+302,Refstadveien,68,589,Tonsenhagen,Oslo,59.942403,10.811703,Refstadveien 68
+303,Thorvald Meyers gate,47B,555,Fredensborg,Oslo,59.924132,10.758592,Thorvald Meyers gate 47B
+304,Maridalsveien,15,178,Fredensborg,Oslo,59.922647,10.751197,Maridalsveien 15
+305,Nydalen allé,55,485,Nydalen,Oslo,59.947863,10.771625,Nydalen allé 55
+306,Parkveien,68,254,Ruselokka,Oslo,59.913868,10.72111,Parkveien 68
+307,Torggata,10,181,hammer,Oslo,59.914255,10.748027,Torggata 10
+308,Helgesens Gate,18,553,Fredensborg,Oslo,59.924624,10.759506,Helgesens Gate 18
+309,Thereses Gate,52,168,Homansbyen,Oslo,59.925793,10.731412,Thereses Gate 52
+310,Karl Johans Gate,43,162,Vika,Oslo,59.91448,10.736932,Karl Johans Gate 43
+311,Dronningens gate,8A,152,St. Hanshaugen,Oslo,59.90845,10.744618,Dronningens gate 8A
+312,Ullevålsveien,95,359,Bislett,Oslo,59.932711,10.733718,Ullevålsveien 95
+313,,,0,Briskeby,Oslo,59.927749,10.699068,Nr. 29: To kjempende menn
+314,Strømsveien,1,657,Gamle Oslo,Oslo,59.907955,10.782987,Strømsveien 1
+315,Universitetsgata,11,164,hammer,Oslo,59.916706,10.738472999999999,Universitetsgata 11
+316,Lørenveien,55A,585,Økern,Oslo,59.929268,10.796313,Lørenveien 55A
+317,Dronningens Gate,15,152,St. Hanshaugen,Oslo,59.910386,10.746016000000001,Dronningens Gate 15
+318,Essendrops Gate,8,368,Majorstuen,Oslo,59.929277,10.710253999999999,Essendrops Gate 8
+319,Calmeyers Gate,8,183,hammer,Oslo,59.916042,10.753529,Calmeyers Gate 8
+320,Kristian Augusts gate,15D,164,hammer,Oslo,59.917134,10.737532999999999,Kristian Augusts gate 15D
+321,President Harbitz' gate,4,259,Briskeby,Oslo,59.918836,10.715629,President Harbitz' gate 4
+322,Hausmanns Gate,28,182,hammer,Oslo,59.9189,10.752393,Hausmanns Gate 28
+323,Nedre Slottsgate,8,157,St. Hanshaugen,Oslo,59.91216,10.742763,Nedre Slottsgate 8
+324,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+325,Bygdøy Allé,66,265,Gimlé,Oslo,59.91891,10.701171,Bygdøy Allé 66
+326,Marstrandgata,6,566,Torshov,Oslo,59.926721,10.769214,Marstrandgata 6
+327,Operagata,1,194,St. Hanshaugen,Oslo,59.906454,10.75564,Operagata 1
+328,Tore Hals Mejdells Vei,5,751,Rud,Oslo,59.946176,10.643484,Tore Hals Mejdells Vei 5
+329,Torggata,13,181,hammer,Oslo,59.915206,10.750215,Torggata 13
+330,Storgata,27,184,hammer,Oslo,59.914098,10.751521,Storgata 27
+331,Osterhaus'' Gate,13,183,hammer,Oslo,59.917038,10.752631,Osterhaus'' Gate 13
+332,Sannergata,6D,557,Torshov,Oslo,59.928569,10.760795,Sannergata 6D
+333,Valkyriegata,9,366,Majorstuen,Oslo,59.928906,10.717581,Valkyriegata 9
+334,Granebakken,54,1284,Ostmarkkapellet,Oslo,59.857467,10.829274999999999,Granebakken 54
+335,Drammensveien,149,277,Gimlé,Oslo,59.922139,10.681963,Drammensveien 149
+336,,,0,Bygdøy,Oslo,59.901862,10.694654,Herbernveien
+337,Hølandsgata,22,655,Grønland,Oslo,59.910386,10.78204,Hølandsgata 22
+338,Ekebergveien,230,1166,Ekebergveien,Oslo,59.860378,10.801237,Ekebergveien 230
+339,Sannergata,13,557,Torshov,Oslo,59.928403,10.763232,Sannergata 13
+340,Kongens Gate,23,153,St. Hanshaugen,Oslo,59.911713,10.743125,Kongens Gate 23
+341,Frognerveien,12,263,Briskeby,Oslo,59.916532,10.713442,Frognerveien 12
+342,Sarpsborggata,12,468,Torshov,Oslo,59.942084,10.760318999999999,Sarpsborggata 12
+343,Parkveien,27,350,Homansbyen,Oslo,59.920533,10.72754,Parkveien 27
+344,Sofienberggata,6,551,Fredensborg,Oslo,59.922421,10.757011,Sofienberggata 6
+345,Københavngata,18,566,Torshov,Oslo,59.928184,10.768297,Københavngata 18
+346,Smalgangen,43,188,Vaterland,Oslo,59.912526,10.761607,Smalgangen 43
+347,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+348,Olaf Ryes Plass,10,552,Fredensborg,Oslo,59.923498,10.758055,Olaf Ryes Plass 10
+349,Damplassen,24,852,Blindernveien,Oslo,59.944326,10.732826,Damplassen 24
+350,Schleppegrells gate,32B,556,Torshov,Oslo,59.92761,10.765343,Schleppegrells gate 32B
+351,Kirkegata,20,153,St. Hanshaugen,Oslo,59.910779,10.744436,Kirkegata 20
+352,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+353,Jacob Aalls Gate,28,366,Majorstuen,Oslo,59.928913,10.717843,Jacob Aalls Gate 28
+354,Kristian IVs gate,15,0,hammer,Oslo,59.915599,10.738139,Kristian IVs gate 15
+355,Kristian IV''s Gate,4,164,hammer,Oslo,59.914895,10.739744,Kristian IV''s Gate 4
+356,Veitvetveien,8,596,Erich Mogensøns Vei,Oslo,59.943985,10.847813,Veitvetveien 8
+357,Trosterudveien,63C,778,Haugerud,Oslo,59.960952,10.710574,Trosterudveien 63C
+358,Karl Johans gate,20,159,Vika,Oslo,59.9129,10.741507,Karl Johans gate 20
+359,Rosenkrantz' gate,7,159,hammer,Oslo,59.914691,10.73951,Rosenkrantz' gate 7
+360,Torggata,21,183,hammer,Oslo,59.916424,10.752566999999999,Torggata 21
+361,Vækerøveien,207,751,Rud,Oslo,59.948303,10.643922,Vækerøveien 207
+362,Steinborgveien,49,678,Helsfyr,Oslo,59.902002,10.803283,Steinborgveien 49
+363,Solligata,2,254,Ruselokka,Oslo,59.914372,10.720479,Solligata 2
+364,St. Halvards gate,33,192,Gamle Oslo,Oslo,59.906048,10.77516,St. Halvards gate 33
+365,Karl Johans Gate,17,159,St. Hanshaugen,Oslo,59.912668,10.74345,Karl Johans Gate 17
+366,Trondheimsveien,2B,560,Enerhaugen,Oslo,59.918425,10.760401,Trondheimsveien 2B
+367,Operagata,29,194,Vaterland,Oslo,59.907113,10.756923,Operagata 29
+368,Brobekkveien,100,582,Økern,Oslo,59.928534,10.83127,Brobekkveien 100
+369,Slemdalsveien,63B,373,Ris,Oslo,59.942083,10.70498,Slemdalsveien 63B
+370,Møllergata,38,179,hammer,Oslo,59.917673,10.750294,Møllergata 38
+371,Fridtjof Nansens plass,9,160,Vika,Oslo,59.912269,10.734928,Fridtjof Nansens plass 9
+372,,,0,Skillebekk,Oslo,59.912647,10.711385,Skillebekkparken
+373,Schweigaards gate,57A,656,Grønland,Oslo,59.908168,10.769691,Schweigaards gate 57A
+374,Johanne Dybwads plass,1,161,Vika,Oslo,59.914584,10.733592999999999,Johanne Dybwads plass 1
+375,Hallings gate,3A,170,Homansbyen,Oslo,59.922516,10.739095,Hallings gate 3A
+376,Karl Johans gate,13,154,St. Hanshaugen,Oslo,59.912419,10.744666,Karl Johans gate 13
+377,Torggata,18,181,hammer,Oslo,59.916126,10.751136,Torggata 18
+378,Schweigaards Gate,54,656,Grønland,Oslo,59.908629,10.769051,Schweigaards Gate 54
+379,Thorvald Meyers Gate,32,555,Fredensborg,Oslo,59.924813,10.759517,Thorvald Meyers Gate 32
+380,Vogts gate,68,477,Torshov,Oslo,59.9369,10.766484,Vogts gate 68
+381,Bentsegata,1B,465,Torshov,Oslo,59.937869,10.757136,Bentsegata 1B
+382,Rostockgata,64,194,Vaterland,Oslo,59.906162,10.760164,Rostockgata 64
+383,Gabels Gate,11,272,Skillebekk,Oslo,59.91269,10.70896,Gabels Gate 11
+384,Tvetenveien,150,671,Bryn,Oslo,59.913836,10.841898,Tvetenveien 150
+385,,,0,Lambertseter,Oslo,59.874324,10.810704,Lambertseter senter
+386,Tevlingveien,21,1081,Lindeberg,Oslo,59.930122,10.86826,Tevlingveien 21
+387,Hammersborg Torg,3,179,hammer,Oslo,59.916881,10.749177,Hammersborg Torg 3
+388,Rådhusgata,21,158,Vika,Oslo,59.910626,10.738294,Rådhusgata 21
+389,Operagata,11,194,Vaterland,Oslo,59.906867,10.755855,Operagata 11
+390,Holmlia Senter Vei,20,1255,Holmlia,Oslo,59.834159,10.794236,Holmlia Senter Vei 20
+391,Bygdøy Allé,3,257,Ruselokka,Oslo,59.914995,10.716774000000001,Bygdøy Allé 3
+392,Sakariasveien,276,758,,Oslo,60.031229,10.639865,Sakariasveien 276
+393,Mariboes Gate,13,183,hammer,Oslo,59.917087,10.75164,Mariboes Gate 13
+394,Markveien,35A,554,Fredensborg,Oslo,59.922222,10.757185,Markveien 35A
+395,"Anne-Cath, Vestlys Plass",1,150,St. Hanshaugen,Oslo,59.908676,10.752618,"Anne-Cath, Vestlys Plass 1"
+396,Thorvald Meyers Gate,36,555,Fredensborg,Oslo,59.924149,10.759853,Thorvald Meyers Gate 36
+397,Hausmanns gate,31C,182,hammer,Oslo,59.917837,10.753786999999999,Hausmanns gate 31C
+398,Skippergata,25C,154,St. Hanshaugen,Oslo,59.911202,10.747749,Skippergata 25C
+399,Fridtjof Nansens Plass,4,160,Vika,Oslo,59.913219,10.734086,Fridtjof Nansens Plass 4
+400,Helgesens Gate,14,553,Fredensborg,Oslo,59.924703,10.758331,Helgesens Gate 14
+401,Hagegata,34A,653,Grønland,Oslo,59.913702,10.776409,Hagegata 34A
+402,Osterhaus'' Gate,21,183,hammer,Oslo,59.917515,10.751532,Osterhaus'' Gate 21
+403,Mauritz Hansens Gate,4,350,Homansbyen,Oslo,59.921362,10.731212,Mauritz Hansens Gate 4
+404,Henrik Ibsens gate,90,255,Ruselokka,Oslo,59.914573,10.719421,Henrik Ibsens gate 90
+405,Bygdøy Allé,63,265,Gimlé,Oslo,59.918909,10.703625,Bygdøy Allé 63
+406,Kristian Augusts gate,14,164,hammer,Oslo,59.916326,10.738592,Kristian Augusts gate 14
+407,Trondheimsveien,37,560,Enerhaugen,Oslo,59.921148,10.769711,Trondheimsveien 37
+408,Østre Aker Vei,33,581,Økern,Oslo,59.928932,10.818591,Østre Aker Vei 33
+409,Lofsrudveien,6,1281,Dal,Oslo,59.848419,10.829194,Lofsrudveien 6
+410,Behrens'' Gate,2,257,Ruselokka,Oslo,59.916411,10.716914,Behrens'' Gate 2
+411,Sandakerveien,28,473,Torshov,Oslo,59.934582,10.76187,Sandakerveien 28
+412,,,0,Skøyen,Oslo,59.91367,10.64475,Drammensveien 288
+413,Lille Stranden,4,252,Aker Brygge,Oslo,59.908246,10.723255,Lille Stranden 4
+414,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+415,Statsråd Mathiesens Vei,12,598,Linderud,Oslo,59.939395,10.830138,Statsråd Mathiesens Vei 12
+416,Skovveien,14,257,Ruselokka,Oslo,59.917397,10.717253,Skovveien 14
+417,Bogstadveien,41,366,Bislett,Oslo,59.927494,10.720122,Bogstadveien 41
+418,Hagegata,23,653,Grønland,Oslo,59.914359,10.774646,Hagegata 23
+419,Karl Johans gate,20,159,Vika,Oslo,59.9129,10.741507,Karl Johans gate 20
+420,Henrik Ibsens Gate,18,255,Ruselokka,Oslo,59.915116,10.727986,Henrik Ibsens Gate 18
+421,Nordre Gate,2,551,Fredensborg,Oslo,59.922148,10.754109,Nordre Gate 2
+422,Thorvald Meyers Gate,72,552,Enerhaugen,Oslo,59.919841,10.759544,Thorvald Meyers Gate 72
+423,Sørkedalsveien,3B,369,Majorstuen,Oslo,59.930332,10.712859,Sørkedalsveien 3B
+424,Bøgata,21,655,Grønland,Oslo,59.913733,10.781006,Bøgata 21
+425,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+426,Holbergs gate,19,166,hammer,Oslo,59.918914,10.733719,Holbergs gate 19
+427,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+428,Dronningens gate,25,154,St. Hanshaugen,Oslo,59.911391,10.747044,Dronningens gate 25
+429,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+430,Dagaliveien,48D,783,Slemdal,Oslo,59.956501,10.673748,Dagaliveien 48D
+431,Fredensborgveien,9B,177,hammer,Oslo,59.91787,10.747492,Fredensborgveien 9B
+432,Operagata,69A,194,Vaterland,Oslo,59.90637,10.757647,Operagata 69A
+433,Arilds Vei,2,491,Kjelsås,Oslo,59.956561,10.789753,Arilds Vei 2
+434,Stortingsgata,8,161,Vika,Oslo,59.913151,10.73755,Stortingsgata 8
+435,Rådhusgata,19,158,St. Hanshaugen,Oslo,59.910269,10.740319,Rådhusgata 19
+436,Prinsens gate,18,152,St. Hanshaugen,Oslo,59.911286,10.743444,Prinsens gate 18
+437,,,0,Sogn,Oslo,59.949355,10.732218,Sognsveien 75
+438,Sandakerveien,59,477,Torshov,Oslo,59.938435,10.768473,Sandakerveien 59
+439,Grønlandsleiret,79,190,Grønland,Oslo,59.909131,10.768163,Grønlandsleiret 79
+440,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+441,Drammensveien,130,277,Gimlé,Oslo,59.921455,10.688035,Drammensveien 130
+442,Sonja Henies Plass,3,185,Vaterland,Oslo,59.912658,10.756218,Sonja Henies Plass 3
+443,Østensjøveien,79,667,Bryn,Oslo,59.903192,10.822458,Østensjøveien 79
+444,Niels Juels Gate,70,259,Briskeby,Oslo,59.919251,10.718535,Niels Juels Gate 70
+445,Holmlia Senter Vei,11,1255,Holmlia,Oslo,59.834718,10.794827,Holmlia Senter Vei 11
+446,Bøgata,10,655,Grønland,Oslo,59.911946,10.780785,Bøgata 10
+447,Karenslyst allé,18,278,Skøyen,Oslo,59.919821,10.683802,Karenslyst allé 18
+448,Tordenskiolds Gate,1,160,Vika,Oslo,59.913277,10.736424,Tordenskiolds Gate 1
+449,,,0,Holmlia,Oslo,59.834855,10.795329,Holmlia senter tannklinikk
+450,Underhaugsveien,28,354,Homansbyen,Oslo,59.923859,10.726099,Underhaugsveien 28
+451,Bergensgata,2,468,Torshov,Oslo,59.939992,10.758913,Bergensgata 2
+452,Stranden,1,250,Aker Brygge,Oslo,59.910504,10.728505,Stranden 1
+453,Bentsebrugata,31,469,Torshov,Oslo,59.939314,10.759454999999999,Bentsebrugata 31
+454,Trondheimsveien,13,560,Enerhaugen,Oslo,59.919232,10.764368,Trondheimsveien 13
+455,Haakon VII''s Gate,2,161,Vika,Oslo,59.912879,10.731086,Haakon VII''s Gate 2
+456,Haakon VII''s Gate,6,161,Vika,Oslo,59.913406,10.730713,Haakon VII''s Gate 6
+457,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+458,Brugata,10,186,hammer,Oslo,59.914009,10.754819,Brugata 10
+459,Youngstorget,6,181,hammer,Oslo,59.915121,10.748418,Youngstorget 6
+460,Storgata,32,184,hammer,Oslo,59.914163,10.752915,Storgata 32
+461,General Ruges Vei,106,694,Skulerud,Oslo,59.863673,10.846411,General Ruges Vei 106
+462,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+463,Tøyengata,2,190,Vaterland,Oslo,59.91278,10.76392,Tøyengata 2
+464,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+465,Strandpromenaden,2,252,Aker Brygge,Oslo,59.906925,10.721938,Strandpromenaden 2
+466,Kirkeveien,51,368,Majorstuen,Oslo,59.927656999999996,10.713796,Kirkeveien 51
+467,Hagegata,22,653,Grønland,Oslo,59.914421,10.775439,Hagegata 22
+468,,,0,Ryen,Oslo,59.897698,10.814762,Manglerud senter
+469,Karoline Kristiansens Vei,3,661,Helsfyr,Oslo,59.913923,10.797616,Karoline Kristiansens Vei 3
+470,Brobekkveien,54,598,Linderud,Oslo,59.936258,10.827325,Brobekkveien 54
+471,Smalgangen,14,188,Vaterland,Oslo,59.912391,10.760332,Smalgangen 14
+472,Kongens Gate,23,153,St. Hanshaugen,Oslo,59.911713,10.743125,Kongens Gate 23
+473,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+474,Munkedamsveien,53B,250,Aker Brygge,Oslo,59.91095,10.722625,Munkedamsveien 53B
+475,Bygdøy allé,65,265,Gimlé,Oslo,59.918931,10.70268,Bygdøy allé 65
+476,Mandalls gate,10,190,Vaterland,Oslo,59.911007,10.763015,Mandalls gate 10
+477,Slemdalsveien,70B,370,Ris,Oslo,59.942304,10.703609,Slemdalsveien 70B
+478,Vitaminveien,11,485,Nydalen,Oslo,59.947547,10.772777,Vitaminveien 11
+479,Tjuvholmen allé,6,252,Aker Brygge,Oslo,59.908503,10.722822,Tjuvholmen allé 6
+480,Storgata,25,184,hammer,Oslo,59.914012,10.751187999999999,Storgata 25
+481,Karl Johans gate,27,159,hammer,Oslo,59.913595,10.73997,Karl Johans gate 27
+482,Essendrops Gate,8,368,Majorstuen,Oslo,59.929277,10.710253999999999,Essendrops Gate 8
+483,Dalsbergstien,19,167,Homansbyen,Oslo,59.923081,10.732925,Dalsbergstien 19
+484,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+485,Karl Johans Gate,23,159,St. Hanshaugen,Oslo,59.912856,10.742602,Karl Johans Gate 23
+486,Dronningens Gate,15,152,St. Hanshaugen,Oslo,59.910386,10.746016000000001,Dronningens Gate 15
+487,Pilestredet,41C,166,Homansbyen,Oslo,59.920475,10.733836,Pilestredet 41C
+488,Torggata,26,183,hammer,Oslo,59.916672,10.752455,Torggata 26
+489,Bjørnveien,67,773,Slemdal,Oslo,59.954344,10.685387,Bjørnveien 67
+490,Lørenveien,44,585,Økern,Oslo,59.930662,10.793579,Lørenveien 44
+491,Henrik Ibsens gate,36,255,Ruselokka,Oslo,59.915165,10.72576,Henrik Ibsens gate 36
+492,Trondheimsveien,391,953,Ammerud,Oslo,59.952359,10.867367999999999,Trondheimsveien 391
+493,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+494,Waldemar Thranes Gate,9,171,Fredensborg,Oslo,59.924358,10.742076,Waldemar Thranes Gate 9
+495,Mariholtveien,200,1061,,Oslo,59.891648,10.907346,Mariholtveien 200
+496,Majorstuveien,41,367,Majorstuen,Oslo,59.928313,10.715431,Majorstuveien 41
+497,Galgeberg,3,657,Gamle Oslo,Oslo,59.908139,10.780965,Galgeberg 3
+498,Nedre Prinsdals Vei,77,1263,Holmlia,Oslo,59.83362,10.807451,Nedre Prinsdals Vei 77
+499,Ivan Bjørndals Gate,25,472,Torshov,Oslo,59.938237,10.763714,Ivan Bjørndals Gate 25
+500,Rådhusgata,11,151,St. Hanshaugen,Oslo,59.909517,10.743218,Rådhusgata 11
+501,Fredensborgveien,42,177,hammer,Oslo,59.92039,10.749109,Fredensborgveien 42
+502,Bjerregaards gate,2B,172,Homansbyen,Oslo,59.923375,10.740825,Bjerregaards gate 2B
+503,Fridtjof Nansens plass,9,160,Vika,Oslo,59.912269,10.734928,Fridtjof Nansens plass 9
+504,Skovveien,5,257,Ruselokka,Oslo,59.916299,10.716498,Skovveien 5
+505,Fredensborgveien,32B,177,hammer,Oslo,59.920056,10.748519,Fredensborgveien 32B
+506,Eiriks Gate,2,650,Grønland,Oslo,59.91161,10.771159,Eiriks Gate 2
+507,Brugata,17,186,Vaterland,Oslo,59.913937,10.757415,Brugata 17
+508,Tryvannsveien,64,791,Lysebu,Oslo,59.985343,10.666594,Tryvannsveien 64
+509,Thorvald Meyers gate,87B,550,Enerhaugen,Oslo,59.918919,10.759225,Thorvald Meyers gate 87B
+510,Myntgata,2,151,Vika,Oslo,59.90909,10.738471,Myntgata 2
+511,Tollbugata,17,152,St. Hanshaugen,Oslo,59.910474,10.744385,Tollbugata 17
+512,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+513,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+514,Plogveien,6,679,Ryen,Oslo,59.897289,10.812857,Plogveien 6
+515,Storgata,31,184,hammer,Oslo,59.914305,10.752207,Storgata 31
+516,Brugata,3,186,hammer,Oslo,59.914342,10.754069,Brugata 3
+517,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+518,Operagata,6,150,Vaterland,Oslo,59.908239,10.7536,Operagata 6
+519,Akersgata,43,158,St. Hanshaugen,Oslo,59.913703,10.742032,Akersgata 43
+520,,,0,Skillebekk,Oslo,59.912647,10.711385,Skillebekkparken
+521,Sundveien,1,198,Bekkelaget,Oslo,59.873483,10.755443,Sundveien 1
+522,Thereses gate,20A,168,Bislett,Oslo,59.92909,10.733033,Thereses gate 20A
+523,Kirkeveien,64B,366,Majorstuen,Oslo,59.92917,10.71481,Kirkeveien 64B
+524,Karl Johans gate,31,159,hammer,Oslo,59.913745,10.739477,Karl Johans gate 31
+525,Tryvannsveien,64,791,Lysebu,Oslo,59.985343,10.666594,Tryvannsveien 64
+526,Stenersgata,10,184,hammer,Oslo,59.91327,10.752612,Stenersgata 10
+527,Torshovgata,7B,476,Torshov,Oslo,59.9336,10.763982,Torshovgata 7B
+528,,,0,Bislett,Oslo,59.931129,10.734427,Brageveien 2
+529,Holmenkollveien,200,791,Lysebu,Oslo,59.977545,10.677378,Holmenkollveien 200
+530,Thorvald Meyers Gate,2,555,Torshov,Oslo,59.930115,10.759986,Thorvald Meyers Gate 2
+531,Filipstad brygge,2,252,Aker Brygge,Oslo,59.909915,10.722698,Filipstad brygge 2
+532,Rosenholmveien,22,1252,Holmlia,Oslo,59.825103,10.796416,Rosenholmveien 22
+533,Lørenveien,55A,585,Økern,Oslo,59.929268,10.796313,Lørenveien 55A
+534,Grensesvingen,26,663,Helsfyr,Oslo,59.913179,10.798903,Grensesvingen 26
+535,Museumsveien,10,287,Bygdøy,Oslo,59.907485,10.686716,Museumsveien 10
+536,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+537,Hagegata,22,653,Grønland,Oslo,59.914421,10.775439,Hagegata 22
+538,Kirkeveien,40,368,Briskeby,Oslo,59.927214,10.712061,Kirkeveien 40
+539,Hammersborggata,2,181,hammer,Oslo,59.914791,10.751845,Hammersborggata 2
+540,Fredensborgveien,30,177,hammer,Oslo,59.919894,10.748361,Fredensborgveien 30
+541,Tøyengata,45B,578,Enerhaugen,Oslo,59.915548,10.771374,Tøyengata 45B
+542,Tøyenbekken,6,188,Vaterland,Oslo,59.91302,10.763674,Tøyenbekken 6
+543,Grønland,24,188,Vaterland,Oslo,59.912936,10.761899,Grønland 24
+544,Bygdøynesveien,39,286,Bygdøy,Oslo,59.903346,10.69944,Bygdøynesveien 39
+545,Leirfallsgata,6,550,hammer,Oslo,59.919335,10.757515,Leirfallsgata 6
+546,Olav Kyrres gate,6F,273,Gimlé,Oslo,59.918252,10.69093,Olav Kyrres gate 6F
+547,Mariboes gate,20,183,hammer,Oslo,59.918151,10.752473,Hausmanns gate barnehage Espira
+548,Åslandhellinga,77,1274,Klemetsrud,Oslo,59.82294,10.841759,Åslandhellinga 77
+549,Konghellegata,14,572,Sindsen,Oslo,59.929458,10.779977,Konghellegata 14
+550,Behrens'' Gate,8,257,Ruselokka,Oslo,59.91698,10.715049,Behrens'' Gate 8
+551,Schweigaards Gate,34,191,Vaterland,Oslo,59.910592,10.764933,Schweigaards Gate 34
+552,Tordenskiolds Gate,1,160,Vika,Oslo,59.913277,10.736424,Tordenskiolds Gate 1
+553,Colletts Gate,33,169,Bislett,Oslo,59.927067,10.73827,Colletts Gate 33
+554,Ormøybakken,4A,198,Bekkelaget,Oslo,59.876857,10.762133,Ormøybakken 4A
+555,Tullins Gate,2,166,hammer,Oslo,59.918366,10.735036,Tullins Gate 2
+556,Grev Wedels plass,2,151,St. Hanshaugen,Oslo,59.907189,10.741444,Grev Wedels plass 2
+557,Biskop Gunnerus' gate,3,155,St. Hanshaugen,Oslo,59.912457,10.749962,Biskop Gunnerus' gate 3
+558,Helgesens Gate,50,553,Enerhaugen,Oslo,59.923568,10.76582,Helgesens Gate 50
+559,Frognerveien,8,257,Ruselokka,Oslo,59.916226,10.715379,Frognerveien 8
+560,Tvetenveien,150,671,Bryn,Oslo,59.913836,10.841898,Tvetenveien 150
+561,Bjørnerudveien,17,1266,Hauketo,Oslo,59.843624,10.815268,Bjørnerudveien 17
+562,Rådhusgata,28,151,St. Hanshaugen,Oslo,59.909831,10.740738,Rådhusgata 28
+563,Tøyengata,1,190,Vaterland,Oslo,59.912629,10.764011,Tøyengata 1
+564,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+565,Utmarkveien,1,691,Bøler,Oslo,59.883242,10.845665,Utmarkveien 1
+566,,,0,Vaterland,Oslo,59.911417,10.751685,Vinmonopolet Oslo S
+567,Parkveien,29,350,Homansbyen,Oslo,59.920433,10.727411,Parkveien 29
+568,Munkedamsveien,62,270,Filipstad,Oslo,59.911394,10.71885,Munkedamsveien 62
+569,Rostockgata,66,194,Vaterland,Oslo,59.906149,10.760686,Rostockgata 66
+570,Vulkan,28,178,Fredensborg,Oslo,59.922573,10.751628,Vulkan 28
+571,Nydalen Allé,19,484,Nydalen,Oslo,59.947607,10.767374,Nydalen Allé 19
+572,Bogstadveien,53A,366,Majorstuen,Oslo,59.929534,10.71416,Bogstadveien 53A
+573,Sars' gate,1,562,Enerhaugen,Oslo,59.920134,10.770992,Sars' gate 1
+574,Wergelandsveien,29,167,Homansbyen,Oslo,59.920275,10.728566,Wergelandsveien 29
+575,Sørengkaia,163,194,St. Hanshaugen,Oslo,59.902285,10.752083,Sørengkaia 163
+576,,,0,Bryn,Oslo,59.915328,10.827314,Ole Deviks vei 16
+577,General Ruges Vei,107,694,Skulerud,Oslo,59.863702,10.843046,General Ruges Vei 107
+578,Dronning Eufemias gate,15,194,Vaterland,Oslo,59.907798,10.756419,Dronning Eufemias gate 15
+579,Thereses gate,33B,354,Bislett,Oslo,59.927642,10.731759,Thereses gate 33B
+580,Fridtjof Nansens Plass,7,160,Vika,Oslo,59.912602,10.735311,Fridtjof Nansens Plass 7
+581,Thorvald Meyers gate,49,555,Fredensborg,Oslo,59.92401,10.758884,Thorvald Meyers gate 49
+582,Eiriks gate,17B,650,Grønland,Oslo,59.912637,10.773472,Eiriks gate 17B
+583,,,0,Kongshavn,Oslo,59.895704,10.732042,Hovedøya
+584,Munkedamsveien,59B,244,Aker Brygge,Oslo,59.911043,10.721575,Munkedamsveien 59B
+585,Holmlia Senter Vei,10,1255,Holmlia,Oslo,59.834355,10.795301,Holmlia Senter Vei 10
+586,Klingenberggata,4,161,Vika,Oslo,59.913683,10.733704,Klingenberggata 4
+587,Oberst Rodes vei,79,1165,Ekebergveien,Oslo,59.864059,10.808901,Oberst Rodes vei 79
+588,Bygdøy allé,8,262,Ruselokka,Oslo,59.915694,10.713251,Bygdøy allé 8
+589,Strandpromenaden,11,252,Aker Brygge,Oslo,59.90793,10.723236,Strandpromenaden 11
+590,,,0,Bryn,Oslo,59.913651,10.841087,Tveita senter
+591,Maridalsveien,3,178,Fredensborg,Oslo,59.920658,10.751597,Maridalsveien 3
+592,Oscars Gate,19,352,Homansbyen,Oslo,59.922558,10.726777,Oscars Gate 19
+593,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+594,Rosenkrantz' gate,1,159,hammer,Oslo,59.915673,10.7405,Rosenkrantz' gate 1
+595,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+596,Stenbråtveien,91,1283,Ostmarkkapellet,Oslo,59.854434,10.820128,Stenbråtveien 91
+597,Olaf Ryes Plass,9,552,Fredensborg,Oslo,59.923489000000004,10.757788,Olaf Ryes Plass 9
+598,Sognsveien,67,854,Sogn,Oslo,59.947491,10.733012,Sognsveien 67
+599,Ekebergveien,65,1181,Gamle Oslo,Oslo,59.89828,10.773555,Ekebergveien 65
+600,Ullevålsveien,61,171,Bislett,Oslo,59.926514,10.738395,Ullevålsveien 61
+601,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+602,Økernveien,9,653,Grønland,Oslo,59.914864,10.77617,Økernveien 9
+603,Lakkegata,71B,562,Enerhaugen,Oslo,59.918719,10.765336,Lakkegata 71B
+604,Smalgangen,44,188,Vaterland,Oslo,59.912598,10.761078,Smalgangen 44
+605,Hegdehaugsveien,31,352,Homansbyen,Oslo,59.92216,10.727241,Hegdehaugsveien 31
+606,Innspurten,7,663,Helsfyr,Oslo,59.915616,10.804717,Innspurten 7
+607,Opplandgata,19,657,Gamle Oslo,Oslo,59.906493,10.785501,Opplandgata 19
+608,Kirkegata,34,153,St. Hanshaugen,Oslo,59.911764,10.745347,Kirkegata 34
+609,Pilestredet,9,180,hammer,Oslo,59.915143,10.741124,Pilestredet 9
+610,,,0,Enerhaugen,Oslo,59.914814,10.766308,Nr. 13
+611,Nordsetergrenda,13,1161,Ekebergveien,Oslo,59.870417,10.79886,Nordsetergrenda 13
+612,Observatoriegata,2,254,Ruselokka,Oslo,59.914253,10.718571,Observatoriegata 2
+613,Nedre Slottsgate,8,157,St. Hanshaugen,Oslo,59.91216,10.742763,Nedre Slottsgate 8
+614,Romsås Senter,1,970,Ammerud,Oslo,59.963161,10.892858,Romsås Senter 1
+615,Maridalsveien,154,461,Torshov,Oslo,59.937679,10.756134,Maridalsveien 154
+616,Ullevålsveien,47,171,Homansbyen,Oslo,59.924477,10.739642,Ullevålsveien 47
+617,Refstadveien,73,584,Tonsenhagen,Oslo,59.938811,10.822096,Refstadveien 73
+618,President Harbitz' gate,4,259,Briskeby,Oslo,59.918836,10.715629,President Harbitz' gate 4
+619,Karl Johans Gate,37,162,Vika,Oslo,59.914197,10.7379,Karl Johans Gate 37
+620,Holmenveien,1,374,Ris,Oslo,59.943064,10.703434,Holmenveien 1
+621,Langbølgen,5,1150,Lambertseter,Oslo,59.87307,10.811848,Langbølgen 5
+622,Bryggetorget,10,250,Aker Brygge,Oslo,59.909377,10.724589,Bryggetorget 10
+623,Storgata,41,182,hammer,Oslo,59.915214,10.754923999999999,Storgata 41
+624,Prost Hallings Vei,10,666,Helsfyr,Oslo,59.914465,10.816618,Prost Hallings Vei 10
+625,Kongens Gate,23,153,St. Hanshaugen,Oslo,59.911713,10.743125,Kongens Gate 23
+626,Stranden,30,250,Aker Brygge,Oslo,59.908964,10.725717,Stranden 30
+627,Stortingsgata,2,158,Vika,Oslo,59.912849,10.738643,Stortingsgata 2
+628,Arendalsgata,3A,463,Torshov,Oslo,59.937415,10.75563,Arendalsgata 3A
+629,Nydalsveien,36B,484,Nydalen,Oslo,59.949695,10.767176,Nydalsveien 36B
+630,Stranden,71,250,Aker Brygge,Oslo,59.908798,10.724357,Stranden 71
+631,Stortingsgata,24,161,Vika,Oslo,59.91404,10.733891,Stortingsgata 24
+632,Dronning Mauds Gate,10,250,Vika,Oslo,59.912902,10.727376,Dronning Mauds Gate 10
+633,Helga Vaneks Vei,3,1281,Dal,Oslo,59.848555,10.830642,Helga Vaneks Vei 3
+634,Briskebyveien,28,259,Briskeby,Oslo,59.919952,10.717979,Briskebyveien 28
+635,Waldemar Thranes Gate,9,171,Fredensborg,Oslo,59.924358,10.742076,Waldemar Thranes Gate 9
+636,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+637,Storgata,39,182,hammer,Oslo,59.915126,10.754685,Storgata 39
+638,Trondheimsveien,64,565,Enerhaugen,Oslo,59.923088,10.771577,Trondheimsveien 64
+639,Niels Juels Gate,25,257,Ruselokka,Oslo,59.916087,10.714144,Niels Juels Gate 25
+640,Trondheimsveien,14A,560,Enerhaugen,Oslo,59.919653,10.76467,Trondheimsveien 14A
+641,Valkyriegata,8,366,Majorstuen,Oslo,59.929415,10.715708,Valkyriegata 8
+642,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+643,Kongens Gate,10,153,St. Hanshaugen,Oslo,59.910438,10.742321,Kongens Gate 10
+644,Lørenveien,44,585,Økern,Oslo,59.930662,10.793579,Lørenveien 44
+645,Holbergs gate,19,166,hammer,Oslo,59.918914,10.733719,Holbergs gate 19
+646,Bøkkerveien,15,579,Økern,Oslo,59.927632,10.796924,Bøkkerveien 15
+647,Waldemar Thranes gate,70,173,Fredensborg,Oslo,59.92813,10.749162,Waldemar Thranes gate 70
+648,Dronning Eufemias Gate,18,191,Vaterland,Oslo,59.907836,10.758947,Dronning Eufemias Gate 18
+649,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+650,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+651,Ingeborgs Gate,4,658,Helsfyr,Oslo,59.908363,10.787382,Ingeborgs Gate 4
+652,Prinsens Gate,26,157,Vika,Oslo,59.912245,10.739565,Prinsens Gate 26
+653,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+654,Torggata,Torggata 17B,183,hammer,Oslo,59.916192,10.752007,Torggata Torggata 17B
+655,Sofies Gate,16,170,Homansbyen,Oslo,59.923005,10.735013,Sofies Gate 16
+656,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+657,Mandalls gate,10,190,Vaterland,Oslo,59.911007,10.763015,Mandalls gate 10
+658,Slemdalsveien,1,369,Majorstuen,Oslo,59.930309,10.715419,Slemdalsveien 1
+659,Kalbakkveien,34,953,Ammerud,Oslo,59.953547,10.873245,Kalbakkveien 34
+660,St. Olavs Gate,31,166,hammer,Oslo,59.917914,10.734969,St. Olavs Gate 31
+661,,,0,Bryn,Oslo,59.915328,10.827314,Ole Deviks vei 16
+662,Majorstuveien,34,367,Majorstuen,Oslo,59.927639,10.715446,Majorstuveien 34
+663,Engebrets Vei,7,275,Smedstad,Oslo,59.927824,10.67601,Engebrets Vei 7
+664,Trondheimsveien,391,953,Ammerud,Oslo,59.952359,10.867367999999999,Trondheimsveien 391
+665,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+666,Henrik Ibsens Gate,18,255,Ruselokka,Oslo,59.915116,10.727986,Henrik Ibsens Gate 18
+667,Youngstorget,1,181,hammer,Oslo,59.914781,10.75012,Youngstorget 1
+668,Vitaminveien,29,485,Nydalen,Oslo,59.947598,10.77182,Vitaminveien 29
+669,Tordenskiolds Gate,1,160,Vika,Oslo,59.913277,10.736424,Tordenskiolds Gate 1
+670,Dronningens gate,22,154,St. Hanshaugen,Oslo,59.910803,10.746863,Dronningens gate 22
+671,Vogts gate,64,477,Torshov,Oslo,59.936102,10.765475,Vogts gate 64
+672,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+673,Underhaugsveien,11,354,Homansbyen,Oslo,59.924563,10.727863,Underhaugsveien 11
+674,Bygdøy Allé,53,265,Skillebekk,Oslo,59.918203,10.706241,Bygdøy Allé 53
+675,Bygdøy Allé,15,257,Ruselokka,Oslo,59.915814,10.714054,Bygdøy Allé 15
+676,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+677,Kristiansands gate,2,463,Ila,Oslo,59.938268,10.752807,Kristiansands gate 2
+678,Stockfleths gate,60,461,Ila,Oslo,59.937482,10.751917,Stockfleths gate 60
+679,Sandstuveien,52,1184,Manglerud,Oslo,59.887049,10.803018999999999,Sandstuveien 52
+680,Torggata,9,181,St. Hanshaugen,Oslo,59.913928,10.748213,Torggata 9
+681,Møllergata,23,179,hammer,Oslo,59.915635,10.74856,Møllergata 23
+682,Christian Krohgs gate,43C,186,Enerhaugen,Oslo,59.916436,10.759383,Christian Krohgs gate 43C
+683,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+684,Grønland,22,188,Vaterland,Oslo,59.912973,10.761775,Grønland 22
+685,Frognerveien,67,266,Briskeby,Oslo,59.923972,10.702639,Frognerveien 67
+686,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+687,Thorvald Meyers Gate,36,555,Fredensborg,Oslo,59.924149,10.759853,Thorvald Meyers Gate 36
+688,Nedre Slottsgate,1,157,St. Hanshaugen,Oslo,59.909845,10.740141,Nedre Slottsgate 1
+689,Brugata,11,186,Vaterland,Oslo,59.913825,10.756473,Brugata 11
+690,Olav Vs gate,1,161,Vika,Oslo,59.913929,10.732386,Olav Vs gate 1
+691,Stortorvet,9,155,St. Hanshaugen,Oslo,59.91312,10.745487,Stortorvet 9
+692,Veitvetveien,8,596,Erich Mogensøns Vei,Oslo,59.943985,10.847813,Veitvetveien 8
+693,Sjølyst Plass,5,278,Skøyen,Oslo,59.920215999999996,10.682822999999999,Sjølyst Plass 5
+694,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+695,Ullevålsveien,81,454,Bislett,Oslo,59.931678,10.735438,Ullevålsveien 81
+696,Sognsveien,75,855,Sogn,Oslo,59.948522,10.734687,Sognsveien 75
+697,Kongsveien,94,1177,Bekkelaget,Oslo,59.881925,10.784221,Kongsveien 94
+698,Stortingsgata,24/26,161,Vika,Oslo,59.91409,10.733521,Stortingsgata 24/26
+699,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+700,Dronning Eufemias gate,43,194,Vaterland,Oslo,59.907172,10.759753,Dronning Eufemias gate 43
+701,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+702,Tjuvholmen Allé,5,252,Aker Brygge,Oslo,59.908463,10.7222,Tjuvholmen Allé 5
+703,Torvbakkgata,12,550,hammer,Oslo,59.919699,10.757123,Torvbakkgata 12
+704,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+705,Seilduksgata,17,553,Fredensborg,Oslo,59.925441,10.759491,Seilduksgata 17
+706,St. Olavs Plass,1,165,hammer,Oslo,59.918162,10.739826,St. Olavs Plass 1
+707,Hausmanns Gate,23,182,hammer,Oslo,59.91718,10.754816,Hausmanns Gate 23
+708,Trondheimsveien,60,565,Enerhaugen,Oslo,59.922795,10.771149,Trondheimsveien 60
+709,Thorvald Meyers gate,73A,552,Enerhaugen,Oslo,59.920934,10.758854,Thorvald Meyers gate 73A
+710,Strømsveien,245,668,Tveita,Oslo,59.926001,10.847668,Strømsveien 245
+711,,,0,Skøyen,Oslo,59.91367,10.64475,Drammensveien 288
+712,Majorstuveien,36,367,Majorstuen,Oslo,59.928026,10.715181,Majorstuveien 36
+713,Lørenveien,42,585,Økern,Oslo,59.930908,10.792591999999999,Lørenveien 42
+714,Normannsgata,44,655,Grønland,Oslo,59.911606,10.781575,Normannsgata 44
+715,Olav Nygards Veg,62,688,Bøler,Oslo,59.886525,10.854253,Olav Nygards Veg 62
+716,Mølleparken,6,459,Torshov,Oslo,59.930179,10.756664,Mølleparken 6
+717,Strømsveien,24,658,Helsfyr,Oslo,59.908944,10.787272,Strømsveien 24
+718,Pilestredet,51,350,Homansbyen,Oslo,59.921603,10.731969,Pilestredet 51
+719,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+720,Veitvetveien,8,596,Erich Mogensøns Vei,Oslo,59.943985,10.847813,Veitvetveien 8
+721,Markveien,35A,554,Fredensborg,Oslo,59.922222,10.757185,Markveien 35A
+722,Jernbanetorget,2,154,St. Hanshaugen,Oslo,59.910765,10.749568,Jernbanetorget 2
+723,Disenveien,31,587,Grefsen,Oslo,59.941651,10.795734,Disenveien 31
+724,Youngstorget,2,181,hammer,Oslo,59.914553,10.749678,Youngstorget 2
+725,Platous Gate,16,190,Grønland,Oslo,59.911264,10.76542,Platous Gate 16
+726,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+727,Osterhaus'' Gate,14,183,hammer,Oslo,59.917183,10.753222,Osterhaus'' Gate 14
+728,Valkyriegata,3,366,Majorstuen,Oslo,59.928325,10.718482999999999,Valkyriegata 3
+729,Olaf Ryes Plass,4,552,Fredensborg,Oslo,59.922639,10.757073,Olaf Ryes Plass 4
+730,Drammensveien,70,271,Skillebekk,Oslo,59.91276,10.706981,Drammensveien 70
+731,,,0,Ryen,Oslo,59.893547,10.805305,Ryensvingen 3
+732,Gimleveien,22B,266,Gimlé,Oslo,59.920224,10.705522,Gimleveien 22B
+733,Maridalsveien,256,872,Torshov,Oslo,59.946396,10.759893,Maridalsveien 256
+734,Maridalsveien,9C,178,Fredensborg,Oslo,59.921577,10.751032,Maridalsveien 9C
+735,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+736,Storgata,22,184,hammer,Oslo,59.913837,10.751555,Storgata 22
+737,Thorvald Meyers gate,14,555,Torshov,Oslo,59.928838999999996,10.759431,Thorvald Meyers gate 14
+738,Cecilie Thoresens Vei,17,1153,Lambertseter,Oslo,59.874915,10.810471,Cecilie Thoresens Vei 17
+739,Tøyengata,29B,578,Enerhaugen,Oslo,59.914258,10.768426,Tøyengata 29B
+740,Sognsveien,75,855,Sogn,Oslo,59.948522,10.734687,Sognsveien 75
+741,Storgata,45,182,hammer,Oslo,59.915598,10.755663,Storgata 45
+742,Rådhusgata,28,151,St. Hanshaugen,Oslo,59.909831,10.740738,Rådhusgata 28
+743,Magnus' gate,2D,650,Grønland,Oslo,59.911239,10.773237,Magnus' gate 2D
+744,John G. Mattesons vei,4,687,Opsal,Oslo,59.891791,10.854369,John G. Mattesons vei 4
+745,Brugata,9,186,Vaterland,Oslo,59.913911,10.756104,Brugata 9
+746,,,0,St. Hanshaugen,Oslo,59.912069,10.75126,Byporten Shopping
+747,Bergensveien,8,963,Ammerud,Oslo,59.961096,10.882082,Bergensveien 8
+748,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+749,Fjordalléen,10,250,Aker Brygge,Oslo,59.909344,10.725136,Fjordalléen 10
+750,Josefines gate,23,351,Homansbyen,Oslo,59.923094,10.725904,Josefines gate 23
+751,Møllergata,23,179,hammer,Oslo,59.915635,10.74856,Møllergata 23
+752,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+753,Herslebs Gate,4,561,Enerhaugen,Oslo,59.919623,10.762527,Herslebs Gate 4
+754,Munkedamsveien,27,250,Vika,Oslo,59.912474,10.727364,Munkedamsveien 27
+755,Ullevålsveien,82,454,Bislett,Oslo,59.932921,10.734401,Ullevålsveien 82
+756,Torggata,27,183,hammer,Oslo,59.916916,10.75331,Torggata 27
+757,Mandalls Gate,2,190,Vaterland,Oslo,59.912258,10.763915,Mandalls Gate 2
+758,Kongsveien,15,193,Gamle Oslo,Oslo,59.899484,10.761656,Kongsveien 15
+759,Rosenbergveien,,0,Ammerud,Oslo,59.960448,10.880478,Grorud senter
+760,Tjuvholmen Allé,14,252,Aker Brygge,Oslo,59.907898,10.721969,Tjuvholmen Allé 14
+761,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+762,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+763,Storgata,3,155,St. Hanshaugen,Oslo,59.913065,10.748116,Storgata 3
+764,Frognerveien,1A,257,Ruselokka,Oslo,59.915147,10.717611,Frognerveien 1A
+765,Frognerveien,58,266,Briskeby,Oslo,59.922323,10.704395,Frognerveien 58
+766,Fridtjof Nansens Vei,2,369,Majorstuen,Oslo,59.929548,10.712208,Fridtjof Nansens Vei 2
+767,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+768,Karenslyst Allé,9,278,Skøyen,Oslo,59.920521,10.683642,Karenslyst Allé 9
+769,Grensesvingen,7,661,Helsfyr,Oslo,59.914091,10.798652,Grensesvingen 7
+770,Platous Gate,16,190,Grønland,Oslo,59.911264,10.76542,Platous Gate 16
+771,Ullevålsveien,45,171,Homansbyen,Oslo,59.924181,10.739662,Ullevålsveien 45
+772,Munchs Gate,5,165,hammer,Oslo,59.917269,10.741427,Munchs Gate 5
+773,Ekebergveien,228,1162,Ekebergveien,Oslo,59.861331,10.800955,Ekebergveien 228
+774,Frognerveien,67,266,Briskeby,Oslo,59.923972,10.702639,Frognerveien 67
+775,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+776,Raschs Vei,38,1153,Lambertseter,Oslo,59.879663,10.804024,Raschs Vei 38
+777,Trondheimsveien,154,570,Sindsen,Oslo,59.928975,10.77767,Trondheimsveien 154
+778,Økernveien,9,653,Grønland,Oslo,59.914864,10.77617,Økernveien 9
+779,Askekroken,11,277,Gimlé,Oslo,59.922627,10.682958,Askekroken 11
+780,Lørenveien,60,585,Økern,Oslo,59.929358,10.797274999999999,Lørenveien 60
+781,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+782,Universitetsgata,12,164,hammer,Oslo,59.916505,10.738621,Universitetsgata 12
+783,Vetlandsveien,111,685,Opsal,Oslo,59.893014,10.841544,Vetlandsveien 111
+784,Schweigaards Gate,56,656,Grønland,Oslo,59.908552,10.769722999999999,Schweigaards Gate 56
+785,Karenslyst allé,7,278,Gimlé,Oslo,59.919932,10.685632,Karenslyst allé 7
+786,St. Olavs Gate,21,165,hammer,Oslo,59.918045,10.738462,St. Olavs Gate 21
+787,Operagata,3,194,St. Hanshaugen,Oslo,59.906525,10.755677,Operagata 3
+788,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+789,Strømsveien,303,1081,Lindeberg,Oslo,59.933844,10.873135,Strømsveien 303
+790,Skovveien,15,257,Ruselokka,Oslo,59.917808,10.718399,Skovveien 15
+791,Storgata,13,155,hammer,Oslo,59.913808,10.748869,Storgata 13
+792,Disengrenda,24H,587,Grefsen,Oslo,59.942813,10.799466,Disengrenda 24H
+793,Oscars Gate,19,352,Homansbyen,Oslo,59.922558,10.726777,Oscars Gate 19
+794,Ole Brumms vei,1,979,Høybråten,Oslo,59.952259,10.910788,Ole Brumms vei 1
+795,Grønlandsleiret,41,190,Grønland,Oslo,59.910872,10.767101,Grønlandsleiret 41
+796,Dronning Eufemias gate,11,150,Vaterland,Oslo,59.908275,10.755151,Dronning Eufemias gate 11
+797,Ankerveien,127,766,Holmenkollen,Oslo,59.962297,10.6388,Ankerveien 127
+798,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+799,Vitaminveien,24,483,Nydalen,Oslo,59.946887,10.771979,Vitaminveien 24
+800,Selma Ellefsens vei,2,581,Økern,Oslo,59.925423,10.807471,Selma Ellefsens vei 2
+801,Dælenenggata,23,567,Torshov,Oslo,59.927337,10.771448,Dælenenggata 23
+802,Pilestredet,39,166,Homansbyen,Oslo,59.920179,10.734642000000001,Pilestredet 39
+803,Trondheimsveien,110,565,Sindsen,Oslo,59.925859,10.775559,Trondheimsveien 110
+804,Stranden,1,250,Aker Brygge,Oslo,59.910504,10.728505,Stranden 1
+805,Møllergata,15,179,hammer,Oslo,59.914656,10.747099,Møllergata 15
+806,Valkyriegata,3,366,Majorstuen,Oslo,59.928325,10.718482999999999,Valkyriegata 3
+807,Tollbugata,25,157,St. Hanshaugen,Oslo,59.911254,10.74116,Tollbugata 25
+808,Møllergata,16,179,hammer,Oslo,59.914697,10.747611,Møllergata 16
+809,Mariboes Gate,7,183,hammer,Oslo,59.916377,10.750818,Mariboes Gate 7
+810,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+811,,,0,Aker Brygge,Oslo,59.909794,10.724879,Bryggetorget
+812,Plogveien,6,679,Ryen,Oslo,59.897289,10.812857,Plogveien 6
+813,Youngstorget,6,181,hammer,Oslo,59.915121,10.748418,Youngstorget 6
+814,Akersgata,36,180,hammer,Oslo,59.914444,10.743312,Akersgata 36
+815,Sørkedalsveien,75,376,Smedstad,Oslo,59.937753,10.68536,Sørkedalsveien 75
+816,Kongeveien,26,787,Holmenkollen,Oslo,59.96248,10.663009,Kongeveien 26
+817,Holbergs Plass,4,166,hammer,Oslo,59.919159,10.733967,Holbergs Plass 4
+818,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+819,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+820,C. J. Hambros Plass,2,164,hammer,Oslo,59.915999,10.741089,C. J. Hambros Plass 2
+821,Wessels Gate,2,165,hammer,Oslo,59.919659,10.743019,Wessels Gate 2
+822,Valkyriegata,3,366,Majorstuen,Oslo,59.928325,10.718482999999999,Valkyriegata 3
+823,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+824,Sørengkaia,69,194,St. Hanshaugen,Oslo,59.9033,10.754335,Sørengkaia 69
+825,Sørkedalsveien,5B,369,Majorstuen,Oslo,59.930691,10.712197,Sørkedalsveien 5B
+826,Karl Johans gate,18 C,0,St. Hanshaugen,Oslo,59.912638,10.741861,Karl Johans gate 18 C
+827,Vitaminveien,11,485,Nydalen,Oslo,59.947547,10.772777,Vitaminveien 11
+828,Dronning Eufemias Gate,28,191,Vaterland,Oslo,59.907732,10.759354,Dronning Eufemias Gate 28
+829,Trelastgata,5,191,Vaterland,Oslo,59.908684,10.75848,Trelastgata 5
+830,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+831,Arbeidersamfunnets Plass,1,181,hammer,Oslo,59.915518,10.751805,Arbeidersamfunnets Plass 1
+832,,,0,Filipstad,Oslo,59.90934,10.70899,Hjortneskaia
+833,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+834,Majorstuveien,38,367,Majorstuen,Oslo,59.928352,10.714978,Majorstuveien 38
+835,Storgata,23,184,hammer,Oslo,59.913892,10.75077,Storgata 23
+836,Romsås Senter,1,970,Ammerud,Oslo,59.963161,10.892858,Romsås Senter 1
+837,Sporveisgata,35,354,Bislett,Oslo,59.925191,10.725345,Sporveisgata 35
+838,Grønlandsleiret,15,190,Vaterland,Oslo,59.912256,10.764388,Grønlandsleiret 15
+839,Kanalen,1,252,Aker Brygge,Oslo,59.908189,10.721233,Kanalen 1
+840,,,0,Høybråten,Oslo,59.960866,10.924411,Stovner senter
+841,Gabels gate,37B,272,Skillebekk,Oslo,59.915359,10.710871,Gabels gate 37B
+842,Trondheimsveien,6,560,Enerhaugen,Oslo,59.919182,10.763353,Trondheimsveien 6
+843,Sørengkaia,71,194,St. Hanshaugen,Oslo,59.903093,10.753896,Sørengkaia 71
+844,Tøyenbekken,14,134,Vaterland,Oslo,59.911282,10.760494,Tøyenbekken 14
+845,Thorvald Meyers gate,35,555,Torshov,Oslo,59.928237,10.759343,Thorvald Meyers gate 35
+846,Haugerudsenteret,1,673,Lindeberg,Oslo,59.922674,10.8564,Haugerudsenteret 1
+847,Grønnegata,10,350,Homansbyen,Oslo,59.922133,10.729325,Grønnegata 10
+848,Messepromenaden,2,279,Skøyen,Oslo,59.920888,10.681155,Messepromenaden 2
+849,Tollbugata,11,152,St. Hanshaugen,Oslo,59.910035,10.746311,Tollbugata 11
+850,Ludvig Karstens Vei,4,1064,Ellingsrud,Oslo,59.93447,10.925264,Ludvig Karstens Vei 4
+851,Åsengata,42,480,Torshov,Oslo,59.939503,10.773713,Åsengata 42
+852,Vogts gate,46,477,Torshov,Oslo,59.934497,10.764116,Vogts gate 46
+853,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+854,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+855,Thorvald Meyers Gate,30,555,Fredensborg,Oslo,59.925017,10.759724,Thorvald Meyers Gate 30
+856,Ekebergveien,235,1162,Ekebergveien,Oslo,59.861082,10.799914,Ekebergveien 235
+857,Dronning Eufemias Gate,32,191,Vaterland,Oslo,59.907486,10.760352,Dronning Eufemias Gate 32
+858,Hegdehaugsveien,26,352,Homansbyen,Oslo,59.921099,10.72735,Hegdehaugsveien 26
+859,Jens Bjelkes gate,9B,562,Enerhaugen,Oslo,59.918982,10.763793,Jens Bjelkes gate 9B
+860,,,0,,Oslo,59.99077,10.627177,Zinoberveien 21
+861,Torggata,11,181,hammer,Oslo,59.914047,10.748477,Torggata 11
+862,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+863,Bogstadveien,53A,366,Majorstuen,Oslo,59.929534,10.71416,Bogstadveien 53A
+864,Rådhusgata,27,158,Vika,Oslo,59.911155,10.735915,Rådhusgata 27
+865,,,0,Torshov,Oslo,59.934733,10.761387,Myrens Verksted
+866,Vestgrensa,2,851,Blindernveien,Oslo,59.94079,10.729133,Vestgrensa 2
+867,Parkveien,12,350,Homansbyen,Oslo,59.920818,10.728916,Parkveien 12
+868,Kongeveien,5,787,Holmenkollen,Oslo,59.962632,10.666289,Kongeveien 5
+869,Dronning Eufemias gate,16,191,Vaterland,Oslo,59.908252,10.758949,Dronning Eufemias gate 16
+870,Grønlandsleiret,61,190,Grønland,Oslo,59.909614,10.768084,Grønlandsleiret 61
+871,Henny Mürers gang,3,150,Vaterland,Oslo,59.908179,10.754304,Henny Mürers gang 3
+872,Trygve Lies Plass,1,1051,Lindeberg,Oslo,59.942157,10.897744,Trygve Lies Plass 1
+873,Tjuvholmen allé,6,252,Aker Brygge,Oslo,59.908503,10.722822,Tjuvholmen allé 6
+874,Normannsgata,5,655,Grønland,Oslo,59.908747,10.78001,Normannsgata 5
+875,Karl Johans gate,35,162,Vika,Oslo,59.914121,10.738150000000001,Karl Johans gate 35
+876,Nydalsveien,28,484,Nydalen,Oslo,59.94973,10.76402,Nydalsveien 28
+877,Maridalsveien,17,178,Fredensborg,Oslo,59.922637,10.751986,Maridalsveien 17
+878,Edvard Munchs plass,1,194,St. Hanshaugen,Oslo,59.906166,10.755419,Edvard Munchs plass 1
+879,Bentsegata,2,465,Torshov,Oslo,59.937981,10.756819,Bentsegata 2
+880,Sandakerveien,106,484,Torshov,Oslo,59.945217,10.771976,Sandakerveien 106
+881,Møllergata,10,179,hammer,Oslo,59.9144,10.747041,Møllergata 10
+882,Stranden,39,250,Aker Brygge,Oslo,59.90964,10.726513,Stranden 39
+883,Operagata,36,194,Vaterland,Oslo,59.906678,10.759956,Operagata 36
+884,Stenbråtveien,81,1283,Ostmarkkapellet,Oslo,59.853338,10.821589,Stenbråtveien 81
+885,,,0,hammer,Oslo,59.918963,10.747563,Fredensborgveien 24
+886,Valkyriegata,21B,366,Majorstuen,Oslo,59.930147,10.715897,Valkyriegata 21B
+887,Rådhusgata,27,158,Vika,Oslo,59.911155,10.735915,Rådhusgata 27
+888,Mariboes Gate,7,183,hammer,Oslo,59.916377,10.750818,Mariboes Gate 7
+889,,,0,Lambertseter,Oslo,59.874324,10.810704,Lambertseter senter
+890,Fossumberget,49,983,Høybråten,Oslo,59.959257,10.933117,Fossumberget 49
+891,Langbølgen,9,1150,Lambertseter,Oslo,59.87297,10.811539,Langbølgen 9
+892,Grønlandsleiret,10,190,Vaterland,Oslo,59.912518,10.765009,Grønlandsleiret 10
+893,Sandakerveien,22,473,Torshov,Oslo,59.934002,10.760349,Sandakerveien 22
+894,Lille Bislett,6,170,Homansbyen,Oslo,59.923362,10.733265,Lille Bislett 6
+895,Grønlandsleiret,46,190,Grønland,Oslo,59.908817,10.768454,Grønlandsleiret 46
+896,Københavngata,2,553,Fredensborg,Oslo,59.92474,10.76284,Københavngata 2
+897,Bygdøyveien,62,287,Bygdøy,Oslo,59.910406,10.68118,Bygdøyveien 62
+898,Garver Ytteborgs Vei,98,977,Høybråten,Oslo,59.953134,10.908127,Garver Ytteborgs Vei 98
+899,Toftes Gate,19,556,Torshov,Oslo,59.929486,10.76055,Toftes Gate 19
+900,Elisenbergveien,19A,265,Gimlé,Oslo,59.918675,10.705854,Elisenbergveien 19A
+901,Youngs Gate,4,181,hammer,Oslo,59.914549,10.751016,Youngs Gate 4
+902,Underhaugsveien,28,354,Homansbyen,Oslo,59.923859,10.726099,Underhaugsveien 28
+903,Parkveien,64,254,Ruselokka,Oslo,59.914373,10.721731,Parkveien 64
+904,Munkedamsveien,14,250,Vika,Oslo,59.913236,10.729625,Munkedamsveien 14
+905,Maridalsveien,4B,178,hammer,Oslo,59.919662,10.751164,Maridalsveien 4B
+906,Dronning Eufemias gate,23,194,Vaterland,Oslo,59.907545,10.758183,Dronning Eufemias gate 23
+907,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+908,Frydenlundgata,2A,169,Homansbyen,Oslo,59.923318,10.736149,Frydenlundgata 2A
+909,Fredriksborgveien,16,286,Bygdøy,Oslo,59.90343,10.688032,Fredriksborgveien 16
+910,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+911,Frognerveien,33,263,Briskeby,Oslo,59.918948,10.710067,Frognerveien 33
+912,Dronning Eufemias Gate,28,191,Vaterland,Oslo,59.907732,10.759354,Dronning Eufemias Gate 28
+913,Thorvald Meyers Gate,65,552,Enerhaugen,Oslo,59.921757,10.758439,Thorvald Meyers Gate 65
+914,Waldemar Thranes Gate,9,171,Fredensborg,Oslo,59.924358,10.742076,Waldemar Thranes Gate 9
+915,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+916,Operagata,13,194,Vaterland,Oslo,59.907073,10.755980000000001,Operagata 13
+917,Nordstrandveien,32,1163,Ekebergveien,Oslo,59.861105,10.795853,Nordstrandveien 32
+918,Ullevålsveien,1,165,hammer,Oslo,59.918116,10.74375,Ullevålsveien 1
+919,Grønlandsleiret,1,190,Vaterland,Oslo,59.912581,10.762854,Grønlandsleiret 1
+920,Youngstorget,2,181,hammer,Oslo,59.914553,10.749678,Youngstorget 2
+921,Hovinveien,39,661,Tøyen,Oslo,59.920044,10.791074,Hovinveien 39
+922,Dronning Eufemias gate,11,150,Vaterland,Oslo,59.908275,10.755151,Dronning Eufemias gate 11
+923,Sandakerveien,72,484,Torshov,Oslo,59.942374,10.769046,Sandakerveien 72
+924,Tøyengata,2,190,Vaterland,Oslo,59.91278,10.76392,Tøyengata 2
+925,Markveien,57,550,hammer,Oslo,59.919955,10.757219,Markveien 57
+926,Pilestredet,63D,350,Homansbyen,Oslo,59.924194,10.73106,Pilestredet 63D
+927,Søndre Gate,8,550,hammer,Oslo,59.918712,10.758256,Søndre Gate 8
+928,Professor Birkelands Vei,27,1081,Lindeberg,Oslo,59.940839,10.882873,Professor Birkelands Vei 27
+929,Øvre Slottsgate,16,157,St. Hanshaugen,Oslo,59.913084,10.742608,Øvre Slottsgate 16
+930,Ekebergveien,99,1181,Ekeberg,Oslo,59.892147,10.774622,Ekebergveien 99
+931,Parkveien,13,350,Homansbyen,Oslo,59.921776,10.730371,Parkveien 13
+932,Torggata,34,183,hammer,Oslo,59.917275,10.753586,Torggata 34
+933,Bøkkerveien,4,579,Økern,Oslo,59.92698,10.793998,Bøkkerveien 4
+934,Klingenberggata,12,161,Vika,Oslo,59.913359,10.732011,Klingenberggata 12
+935,Frognerstranda,4,250,Skillebekk,Oslo,59.910364,10.705465,Frognerstranda 4
+936,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+937,Storgata,53,182,hammer,Oslo,59.916638,10.757231,Storgata 53
+938,Lakkegata,55,187,Enerhaugen,Oslo,59.916934,10.762468,Lakkegata 55
+939,Niels Juels Gate,29,257,Ruselokka,Oslo,59.916475,10.714738,Niels Juels Gate 29
+940,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+941,Middelthuns gate,25F,368,Majorstuen,Oslo,59.928541,10.710054,Middelthuns gate 25F
+942,C. J. Hambros Plass,7,164,hammer,Oslo,59.915971,10.740752,C. J. Hambros Plass 7
+943,Hegdehaugsveien,36,352,Homansbyen,Oslo,59.9235,10.725313,Hegdehaugsveien 36
+944,Thorvald Meyers Gate,43,555,Fredensborg,Oslo,59.924406,10.758889,Thorvald Meyers Gate 43
+945,Sandakerveien,72,484,Torshov,Oslo,59.942374,10.769046,Sandakerveien 72
+946,Nedre Prinsdals Vei,77,1263,Holmlia,Oslo,59.83362,10.807451,Nedre Prinsdals Vei 77
+947,Frognerveien,58,266,Briskeby,Oslo,59.922323,10.704395,Frognerveien 58
+948,Møllerveien,4,182,Fredensborg,Oslo,59.92135,10.751861,Møllerveien 4
+949,Henrik Ibsens gate,90,255,Ruselokka,Oslo,59.914573,10.719421,Henrik Ibsens gate 90
+950,Nedre Slottsgate,8,157,St. Hanshaugen,Oslo,59.91216,10.742763,Nedre Slottsgate 8
+951,Rathkes gate,9A,558,Enerhaugen,Oslo,59.920591,10.763228999999999,Rathkes gate 9A
+952,,,0,Ryen,Oslo,59.893547,10.805305,Ryensvingen 3
+953,Frederik Stangs gate,46C,264,Skillebekk,Oslo,59.918753,10.708768,Frederik Stangs gate 46C
+954,Bogstadveien,58,366,Majorstuen,Oslo,59.928143,10.717387,Bogstadveien 58
+955,Thorvald Meyers gate,76A,550,Enerhaugen,Oslo,59.919405,10.759701,Thorvald Meyers gate 76A
+956,Markveien,58,550,hammer,Oslo,59.918985,10.757479,Markveien 58
+957,Josefines gate,23,351,Homansbyen,Oslo,59.923094,10.725904,Josefines gate 23
+958,Trondheimsveien,139B,570,Sindsen,Oslo,59.929546,10.77833,Trondheimsveien 139B
+959,Sofienberggata,15,558,Enerhaugen,Oslo,59.922237,10.76135,Sofienberggata 15
+960,Vogts Gate,38,474,Torshov,Oslo,59.933265,10.763167,Vogts Gate 38
+961,Langgata,2B,566,Enerhaugen,Oslo,59.924067,10.768339,Langgata 2B
+962,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+963,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+964,Møllergata,8,179,hammer,Oslo,59.914181,10.746586,Møllergata 8
+965,President Harbitz' gate,4,259,Briskeby,Oslo,59.918836,10.715629,President Harbitz' gate 4
+966,Calmeyers Gate,8,183,hammer,Oslo,59.916042,10.753529,Calmeyers Gate 8
+967,Fossumberget,49,983,Høybråten,Oslo,59.959257,10.933117,Fossumberget 49
+968,Hammersborg Torg,3,179,hammer,Oslo,59.916881,10.749177,Hammersborg Torg 3
+969,Bankplassen,1,151,St. Hanshaugen,Oslo,59.90892,10.742104,Bankplassen 1
+970,Ekebergveien,103,1178,Ekeberg,Oslo,59.891199,10.775637,Ekebergveien 103
+971,Sørkedalsveien,3B,369,Majorstuen,Oslo,59.930332,10.712859,Sørkedalsveien 3B
+972,Drammensveien,130,277,Gimlé,Oslo,59.921455,10.688035,Drammensveien 130
+973,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+974,Refstadveien,44,589,Tonsenhagen,Oslo,59.942033,10.808013,Refstadveien 44
+975,Rosenbergveien,,0,Ammerud,Oslo,59.960448,10.880478,Grorud senter
+976,Thereses gate,20A,168,Bislett,Oslo,59.92909,10.733033,Thereses gate 20A
+977,Refstadveien,27,589,Tonsenhagen,Oslo,59.941297,10.810886,Refstadveien 27
+978,,,0,Bislett,Oslo,59.931129,10.734427,Brageveien 2
+979,Industrigata,36,357,Briskeby,Oslo,59.926046,10.719707,Industrigata 36
+980,Østensjøveien,79,667,Bryn,Oslo,59.903192,10.822458,Østensjøveien 79
+981,Rosenbergveien,,0,Ammerud,Oslo,59.960448,10.880478,Grorud senter
+982,Skovveien,4,257,Ruselokka,Oslo,59.915809,10.715559,Skovveien 4
+983,Akershusstranda,11,150,Vika,Oslo,59.907893,10.733983,Akershusstranda 11
+984,Torggata,11,181,hammer,Oslo,59.914047,10.748477,Torggata 11
+985,Silurveien,46,380,Smedstad,Oslo,59.932862,10.656952,Silurveien 46
+986,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+987,Thorvald Meyers Gate,18,555,Torshov,Oslo,59.928204,10.759281,Thorvald Meyers Gate 18
+988,Tjuvholmen Allé,15,252,Aker Brygge,Oslo,59.907337,10.721021,Tjuvholmen Allé 15
+989,Parkveien,78,254,Filipstad,Oslo,59.912305,10.719155,Parkveien 78
+990,Parkveien,12,350,Homansbyen,Oslo,59.920818,10.728916,Parkveien 12
+991,Arilds Vei,2,491,Kjelsås,Oslo,59.956561,10.789753,Arilds Vei 2
+992,Waldemar Thranes gate,65A,173,Fredensborg,Oslo,59.927789,10.749195,Waldemar Thranes gate 65A
+993,Cort Adelers gate,2,254,Ruselokka,Oslo,59.914655,10.720815,Cort Adelers gate 2
+994,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+995,Bogstadveien,66,366,Majorstuen,Oslo,59.928664,10.715726,Bogstadveien 66
+996,Møllergata,42,179,hammer,Oslo,59.918025,10.750607,Møllergata 42
+997,Torggata,17B,183,hammer,Oslo,59.916183,10.751991,Torggata 17B
+998,Sørkedalsveien,10,369,Majorstuen,Oslo,59.930724,10.709959,Sørkedalsveien 10
+999,Sørkedalsveien,1,369,Majorstuen,Oslo,59.929923,10.713789,Sørkedalsveien 1
+1000,Geitmyrsveien,57,455,Ila,Oslo,59.93118,10.742734,Geitmyrsveien 57
+1001,Jernbanetorget,6,154,St. Hanshaugen,Oslo,59.911864,10.751097,Jernbanetorget 6
+1002,Østensjøveien,79,667,Bryn,Oslo,59.903192,10.822458,Østensjøveien 79
+1003,Welhavens gate,2C,166,hammer,Oslo,59.919639,10.733846,Welhavens gate 2C
+1004,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+1005,Brobekkveien,80,582,Økern,Oslo,59.93206,10.831542,Brobekkveien 80
+1006,Torggata,9,181,St. Hanshaugen,Oslo,59.913928,10.748213,Torggata 9
+1007,Nedre Kalbakkvei,2,950,Ammerud,Oslo,59.951422,10.867129,Nedre Kalbakkvei 2
+1008,Bryggetorget,14,250,Aker Brygge,Oslo,59.909345,10.724432,Bryggetorget 14
+1009,Hammersborggata,9,181,hammer,Oslo,59.915036,10.752189,Hammersborggata 9
+1010,Bøkkerveien,4,579,Økern,Oslo,59.92698,10.793998,Bøkkerveien 4
+1011,Tullins gate,5,166,hammer,Oslo,59.918258,10.7344,Tullins gate 5
+1012,Fredensborgveien,22,177,hammer,Oslo,59.918547,10.747854,Fredensborgveien 22
+1013,Maridalsveien,153,461,Torshov,Oslo,59.937536,10.756509,Maridalsveien 153
+1014,Kongens Gate,8,153,St. Hanshaugen,Oslo,59.910205,10.7421,Kongens Gate 8
+1015,Ole Vigs Gate,22,366,Majorstuen,Oslo,59.928427,10.719482,Ole Vigs Gate 22
+1016,Sommerrogata,1,255,Ruselokka,Oslo,59.915245,10.719612,Sommerrogata 1
+1017,Rådhusbrygge 2,1,160,Vika,Oslo,59.909989,10.732819,Rådhusbrygge 2 1
+1018,Strømsveien,241,668,Tveita,Oslo,59.924659,10.843525,Strømsveien 241
+1019,Bøkkerveien,4,579,Økern,Oslo,59.92698,10.793998,Bøkkerveien 4
+1020,Monrads gate,1C,577,Enerhaugen,Oslo,59.915592,10.773451,Monrads gate 1C
+1021,Stockfleths Gate,51,461,Ila,Oslo,59.936501,10.752521999999999,Stockfleths Gate 51
+1022,Munkedamsveien,29,250,Aker Brygge,Oslo,59.91217,10.726725,Munkedamsveien 29
+1023,Toftes gate,20B,556,Torshov,Oslo,59.928362,10.761482,Toftes gate 20B
+1024,Trollvannsveien,3,490,Kjelsås,Oslo,59.961718,10.80608,Trollvannsveien 3
+1025,Vitaminveien,31,485,Nydalen,Oslo,59.947235,10.77158,Vitaminveien 31
+1026,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+1027,Kirkeveien,104A,361,Bislett,Oslo,59.933434,10.725707,Kirkeveien 104A
+1028,Waldemar Thranes Gate,32,171,Fredensborg,Oslo,59.925006,10.742655,Waldemar Thranes Gate 32
+1029,Hesselbergs gate,6A,555,Torshov,Oslo,59.927938,10.761656,Hesselbergs gate 6A
+1030,Sørkedalsveien,10,369,Majorstuen,Oslo,59.930724,10.709959,Sørkedalsveien 10
+1031,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+1032,Elisenbergveien,22,265,Gimlé,Oslo,59.919033999999996,10.706062,Elisenbergveien 22
+1033,Fjordalléen,4,250,Aker Brygge,Oslo,59.909137,10.725161,Fjordalléen 4
+1034,Rådhusgata,28,151,St. Hanshaugen,Oslo,59.909831,10.740738,Rådhusgata 28
+1035,,,0,Bøler,Oslo,59.891523,10.854906,Østmarkveien
+1036,Østre Aker Vei,243,976,Ammerud,Oslo,59.953823,10.892411,Østre Aker Vei 243
+1037,Bogstadveien,30B,355,Briskeby,Oslo,59.92601,10.72065,Bogstadveien 30B
+1038,St. Halvards gate,33,192,Gamle Oslo,Oslo,59.906048,10.77516,St. Halvards gate 33
+1039,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+1040,Tollbugata,7,152,St. Hanshaugen,Oslo,59.909927,10.746559,Tollbugata 7
+1041,Torggata,18,181,hammer,Oslo,59.916126,10.751136,Torggata 18
+1042,Hauketoveien,8,1266,Hauketo,Oslo,59.84701,10.804407,Hauketoveien 8
+1043,Thorvald Meyers gate,23A,555,Fredensborg,Oslo,59.927393,10.758764,Thorvald Meyers gate 23A
+1044,Schweigaards gate,10,185,Vaterland,Oslo,59.911683,10.758148,Schweigaards gate 10
+1045,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+1046,Tevlingveien,17,1081,Lindeberg,Oslo,59.930863,10.868669,Tevlingveien 17
+1047,Henrik Ibsens gate,100,255,Ruselokka,Oslo,59.914153,10.718812,Henrik Ibsens gate 100
+1048,,,0,Ekebergveien,Oslo,59.860841,10.802908,Sæter torg
+1049,Sørengkaia,99,194,St. Hanshaugen,Oslo,59.902836,10.753338,Sørengkaia 99
+1050,Sognsveien,75,855,Sogn,Oslo,59.948522,10.734687,Sognsveien 75
+1051,Pasoplia,5,1279,Rønning,Oslo,59.842154,10.845451,Pasoplia 5
+1052,Holmlia Senter Vei,10,1255,Holmlia,Oslo,59.834355,10.795301,Holmlia Senter Vei 10
+1053,Tøyengata,29B,578,Enerhaugen,Oslo,59.914258,10.768426,Tøyengata 29B
+1054,Olaf Ryes Plass,10,552,Fredensborg,Oslo,59.923498,10.758055,Olaf Ryes Plass 10
+1055,Østre Aker Vei,243,976,Ammerud,Oslo,59.953823,10.892411,Østre Aker Vei 243
+1056,Ekebergveien,11,192,Gamle Oslo,Oslo,59.902082,10.77383,Ekebergveien 11
+1057,Sundveien,1,198,Bekkelaget,Oslo,59.873483,10.755443,Sundveien 1
+1058,Hegdehaugsveien,22B,167,Homansbyen,Oslo,59.920229,10.729995,Hegdehaugsveien 22B
+1059,Torggata,11,181,hammer,Oslo,59.914047,10.748477,Torggata 11
+1060,Søndre Gate,8,550,hammer,Oslo,59.918712,10.758256,Søndre Gate 8
+1061,Fredensborgveien,22,177,hammer,Oslo,59.918547,10.747854,Fredensborgveien 22
+1062,Vogts gate,64,477,Torshov,Oslo,59.936102,10.765475,Vogts gate 64
+1063,Kongens Gate,23,153,St. Hanshaugen,Oslo,59.911713,10.743125,Kongens Gate 23
+1064,Ekebergveien,230,1166,Ekebergveien,Oslo,59.860378,10.801237,Ekebergveien 230
+1065,Lerkeveien,2G,1053,Ammerud,Oslo,59.947286,10.889356,Lerkeveien 2G
+1066,Kirkegata,15,153,St. Hanshaugen,Oslo,59.910246,10.743444,Kirkegata 15
+1067,,,0,Vaterland,Oslo,59.913104,10.761445,Kiwi Grønland 18
+1068,Stenbråtveien,91,1283,Ostmarkkapellet,Oslo,59.854434,10.820128,Stenbråtveien 91
+1069,Grønland,12,188,Vaterland,Oslo,59.913307,10.760468,Grønland 12
+1070,Munkedamsveien,29,250,Aker Brygge,Oslo,59.91217,10.726725,Munkedamsveien 29
+1071,Langbølgen,3,1150,Lambertseter,Oslo,59.873363,10.811722,Langbølgen 3
+1072,,,0,Bøler,Oslo,59.891523,10.854906,Østmarkveien
+1073,St. Olavs plass,2,165,hammer,Oslo,59.918231,10.740283999999999,St. Olavs plass 2
+1074,Disengrenda,24H,587,Grefsen,Oslo,59.942813,10.799466,Disengrenda 24H
+1075,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1076,Myntgata,2,151,Vika,Oslo,59.90909,10.738471,Myntgata 2
+1077,Normannsgata,5,655,Grønland,Oslo,59.908747,10.78001,Normannsgata 5
+1078,Odins gate,1B,266,Gimlé,Oslo,59.91897,10.704617,Odins gate 1B
+1079,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+1080,Tullins Gate,2,166,hammer,Oslo,59.918366,10.735036,Tullins Gate 2
+1081,,,0,Briskeby,Oslo,59.927584,10.698691,Nr. 12: Gutteslagsmål
+1082,Dronningens gate,25,154,St. Hanshaugen,Oslo,59.911391,10.747044,Dronningens gate 25
+1083,Trygve Lies Plass,1,1051,Lindeberg,Oslo,59.942157,10.897744,Trygve Lies Plass 1
+1084,Arendalsgata,14,463,Torshov,Oslo,59.937816,10.754056,Arendalsgata 14
+1085,Storgata,45,182,hammer,Oslo,59.915598,10.755663,Storgata 45
+1086,Underhaugsveien,28,354,Homansbyen,Oslo,59.923859,10.726099,Underhaugsveien 28
+1087,Vækerøveien,195C,751,Rud,Oslo,59.946182,10.642804,Vækerøveien 195C
+1088,Thorvald Meyers gate,14,555,Torshov,Oslo,59.928838999999996,10.759431,Thorvald Meyers gate 14
+1089,Kongens Gate,8,153,St. Hanshaugen,Oslo,59.910205,10.7421,Kongens Gate 8
+1090,Kirkeveien,59,364,Majorstuen,Oslo,59.928942,10.716447,DNB Majorstua
+1091,Haakon VII''s Gate,6,161,Vika,Oslo,59.913406,10.730713,Haakon VII''s Gate 6
+1092,Youngstorget,1,181,hammer,Oslo,59.914781,10.75012,Youngstorget 1
+1093,,,0,Gamle Oslo,Oslo,59.904728,10.787295,Kværnerbyen næringspark
+1094,Olav Vs gate,1,161,Vika,Oslo,59.913929,10.732386,Olav Vs gate 1
+1095,Bergensveien,8,963,Ammerud,Oslo,59.961096,10.882082,Bergensveien 8
+1096,Mandalls gate,10,190,Vaterland,Oslo,59.911007,10.763015,Mandalls gate 10
+1097,Fjordalléen,10,250,Aker Brygge,Oslo,59.909344,10.725136,Fjordalléen 10
+1098,Konghellegata,5,569,Sindsen,Oslo,59.929735,10.779664,Konghellegata 5
+1099,Grefsenveien,107,492,Kjelsås,Oslo,59.955958,10.786083,Grefsenveien 107
+1100,Dronningens Gate,15,152,St. Hanshaugen,Oslo,59.910386,10.746016000000001,Dronningens Gate 15
+1101,Frognerveien,1A,257,Ruselokka,Oslo,59.915147,10.717611,Frognerveien 1A
+1102,Karenslyst Allé,9,278,Skøyen,Oslo,59.920521,10.683642,Karenslyst Allé 9
+1103,Veitvetveien,8,596,Erich Mogensøns Vei,Oslo,59.943985,10.847813,Veitvetveien 8
+1104,Thorvald Meyers gate,23A,555,Fredensborg,Oslo,59.927393,10.758764,Thorvald Meyers gate 23A
+1105,Arbeidergata,2,159,hammer,Oslo,59.914499,10.74084,Arbeidergata 2
+1106,Parkveien,29,350,Homansbyen,Oslo,59.920433,10.727411,Parkveien 29
+1107,Dronningens Gate,19,154,St. Hanshaugen,Oslo,59.911048,10.746737,Dronningens Gate 19
+1108,Trondheimsveien,5,560,Enerhaugen,Oslo,59.918179,10.760705,Trondheimsveien 5
+1109,Lerkeveien,2G,1053,Ammerud,Oslo,59.947286,10.889356,Lerkeveien 2G
+1110,Torggata,16A,181,hammer,Oslo,59.915834,10.75081,Oslo street food Torggata Bad
+1111,Kirkeveien,57,368,Majorstuen,Oslo,59.927927,10.71413,Kirkeveien 57
+1112,Valkyriegata,3,366,Majorstuen,Oslo,59.928325,10.718482999999999,Valkyriegata 3
+1113,Lilleakerveien,16,283,Skøyen,Oslo,59.917405,10.636047,Lilleakerveien 16
+1114,Møllergata,23,179,hammer,Oslo,59.915635,10.74856,Møllergata 23
+1115,Vestlisvingen,188,969,Romsås,Oslo,59.972458,10.928115,Vestlisvingen 188
+1116,Kjelsåsveien,143C,491,Nydalen,Oslo,59.966246,10.781107,Kjelsåsveien 143C
+1117,Beverveien,25,596,Erich Mogensøns Vei,Oslo,59.942815,10.848722,Beverveien 25
+1118,Torggata,11,181,hammer,Oslo,59.914047,10.748477,Torggata 11
+1119,Parkveien,64,254,Ruselokka,Oslo,59.914373,10.721731,Parkveien 64
+1120,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+1121,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+1122,Elisenbergveien,19A,265,Gimlé,Oslo,59.918675,10.705854,Elisenbergveien 19A
+1123,Hallagerbakken,108,1256,Holmlia,Oslo,59.84137,10.792825,Hallagerbakken 108
+1124,,,0,Homansbyen,Oslo,59.920737,10.727058,Parkveien 27-31
+1125,Frognerveien,67,266,Briskeby,Oslo,59.923972,10.702639,Frognerveien 67
+1126,Colletts Gate,33,169,Bislett,Oslo,59.927067,10.73827,Colletts Gate 33
+1127,Stranden,1,250,Aker Brygge,Oslo,59.910504,10.728505,Stranden 1
+1128,Ullevålsveien,81,454,Bislett,Oslo,59.931678,10.735438,Ullevålsveien 81
+1129,Maridalsveien,154,461,Torshov,Oslo,59.937679,10.756134,Maridalsveien 154
+1130,,,0,St. Hanshaugen,Oslo,59.912069,10.75126,Byporten Shopping
+1131,Mølleparken,6,459,Torshov,Oslo,59.930179,10.756664,Mølleparken 6
+1132,Henrik Ibsens gate,100,255,Ruselokka,Oslo,59.914153,10.718812,Henrik Ibsens gate 100
+1133,John Brandts Vei,3,860,Haugerud,Oslo,59.958669,10.730638,John Brandts Vei 3
+1134,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1135,Universitetsgata,11,164,hammer,Oslo,59.916706,10.738472999999999,Universitetsgata 11
+1136,Mandalls gate,10,190,Vaterland,Oslo,59.911007,10.763015,Mandalls gate 10
+1137,Markveien,67A,550,hammer,Oslo,59.918883,10.757044,Markveien 67A
+1138,Sagveien,23,459,Torshov,Oslo,59.930993,10.756273,Sagveien 23
+1139,Sakariasveien,276,758,,Oslo,60.031229,10.639865,Sakariasveien 276
+1140,Frognerstranda,4,250,Skillebekk,Oslo,59.910364,10.705465,Frognerstranda 4
+1141,Nordstrandveien,32,1163,Ekebergveien,Oslo,59.861105,10.795853,Nordstrandveien 32
+1142,Løchenveien,30B,286,Bygdøy,Oslo,59.903299,10.695308,Løchenveien 30B
+1143,Ruseløkkveien,3,251,Vika,Oslo,59.914241,10.728994,Ruseløkkveien 3
+1144,Sørengkaia,163,194,St. Hanshaugen,Oslo,59.902285,10.752083,Sørengkaia 163
+1145,Christian Krohgs gate,43C,186,Enerhaugen,Oslo,59.916436,10.759383,Christian Krohgs gate 43C
+1146,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+1147,Øvre Slottsgate,16,157,St. Hanshaugen,Oslo,59.913084,10.742608,Øvre Slottsgate 16
+1148,Fridtjof Nansens Plass,2,160,Vika,Oslo,59.912946,10.733441,Fridtjof Nansens Plass 2
+1149,Universitetsgata,11,164,hammer,Oslo,59.916706,10.738472999999999,Universitetsgata 11
+1150,Vulkan,2,182,Fredensborg,Oslo,59.921365,10.752243,Vulkan 2
+1151,Thorvald Meyers gate,61,552,Fredensborg,Oslo,59.922088,10.759126,Thorvald Meyers gate 61
+1152,,,0,Manglerud,Oslo,59.88834,10.79765,Vestengveien
+1153,Statsråd Mathiesens Vei,12,598,Linderud,Oslo,59.939395,10.830138,Statsråd Mathiesens Vei 12
+1154,Silurveien,46,380,Smedstad,Oslo,59.932862,10.656952,Silurveien 46
+1155,Torshovgata,7B,476,Torshov,Oslo,59.9336,10.763982,Torshovgata 7B
+1156,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+1157,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+1158,Oberst Rodes vei,79,1165,Ekebergveien,Oslo,59.864059,10.808901,Oberst Rodes vei 79
+1159,Vålerenggata,13,657,Gamle Oslo,Oslo,59.907838,10.785645,Vålerenggata 13
+1160,Josefines gate,23,351,Homansbyen,Oslo,59.923094,10.725904,Josefines gate 23
+1161,Galgeberg,3,657,Gamle Oslo,Oslo,59.908139,10.780965,Galgeberg 3
+1162,Wergelandsveien,29,167,Homansbyen,Oslo,59.920275,10.728566,Wergelandsveien 29
+1163,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1164,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+1165,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1166,Dronning Eufemias gate,16,191,Vaterland,Oslo,59.908252,10.758949,Dronning Eufemias gate 16
+1167,Opplandgata,19,657,Gamle Oslo,Oslo,59.906493,10.785501,Opplandgata 19
+1168,Nordsetergrenda,13,1161,Ekebergveien,Oslo,59.870417,10.79886,Nordsetergrenda 13
+1169,Trondheimsveien,2B,560,Enerhaugen,Oslo,59.918425,10.760401,Trondheimsveien 2B
+1170,Operagata,77A,194,Vaterland,Oslo,59.906446,10.759225,Operagata 77A
+1171,Kongens Gate,23,153,St. Hanshaugen,Oslo,59.911713,10.743125,Kongens Gate 23
+1172,Østensjøveien,79,667,Bryn,Oslo,59.903192,10.822458,Østensjøveien 79
+1173,Thorvald Meyers gate,33C,555,Fredensborg,Oslo,59.925827,10.758986,Thorvald Meyers gate 33C
+1174,Frognerveien,58,266,Briskeby,Oslo,59.922323,10.704395,Frognerveien 58
+1175,Toftes Gate,48,556,Fredensborg,Oslo,59.925891,10.761457,Toftes Gate 48
+1176,Rosenkrantz' gate,7,159,hammer,Oslo,59.914691,10.73951,Rosenkrantz' gate 7
+1177,Torggata,18,181,hammer,Oslo,59.916126,10.751136,Torggata 18
+1178,Hammersborggata,9,181,hammer,Oslo,59.915036,10.752189,Hammersborggata 9
+1179,Magnus' gate,2D,650,Grønland,Oslo,59.911239,10.773237,Magnus' gate 2D
+1180,Helgesens Gate,14,553,Fredensborg,Oslo,59.924703,10.758331,Helgesens Gate 14
+1181,President Harbitz' gate,4,259,Briskeby,Oslo,59.918836,10.715629,President Harbitz' gate 4
+1182,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+1183,Thorvald Meyers gate,76A,550,Enerhaugen,Oslo,59.919405,10.759701,Thorvald Meyers gate 76A
+1184,Tollbugata,3,152,St. Hanshaugen,Oslo,59.909762,10.747278,Tollbugata 3
+1185,Østensjøveien,64,667,Helsfyr,Oslo,59.907649,10.8183,Østensjøveien 64
+1186,Vibes gate,11B,356,Bislett,Oslo,59.926517,10.72372,Vibes gate 11B
+1187,Thorvald Meyers gate,76A,550,Enerhaugen,Oslo,59.919405,10.759701,Thorvald Meyers gate 76A
+1188,Maridalsveien,15,178,Fredensborg,Oslo,59.922647,10.751197,Maridalsveien 15
+1189,Stortingsgata,22,161,Vika,Oslo,59.913832,10.734752,Stortingsgata 22
+1190,Operagata,61C,194,Vaterland,Oslo,59.906848,10.758055,Operagata 61C
+1191,Torggata,27,183,hammer,Oslo,59.916916,10.75331,Torggata 27
+1192,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+1193,Lilleakerveien,8,283,Skøyen,Oslo,59.91613,10.636899,Lilleakerveien 8
+1194,Sandakerveien,59,477,Torshov,Oslo,59.938435,10.768473,Sandakerveien 59
+1195,Oberst Rodes Vei,104,1165,Hauketo,Oslo,59.85672,10.812012,Oberst Rodes Vei 104
+1196,,,0,Bryn,Oslo,59.915328,10.827314,Ole Deviks vei 16
+1197,Arbeidersamfunnets Plass,1,181,hammer,Oslo,59.915518,10.751805,Arbeidersamfunnets Plass 1
+1198,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+1199,Vulkan,11,178,Fredensborg,Oslo,59.922666,10.751895,Vulkan 11
+1200,Tordenskiolds Gate,1,160,Vika,Oslo,59.913277,10.736424,Tordenskiolds Gate 1
+1201,Vulkan,12,178,Fredensborg,Oslo,59.921653,10.751795,Vulkan 12
+1202,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+1203,Grev Wedels plass,2,151,St. Hanshaugen,Oslo,59.907189,10.741444,Grev Wedels plass 2
+1204,Thorvald Meyers gate,49,555,Fredensborg,Oslo,59.92401,10.758884,Thorvald Meyers gate 49
+1205,Feltspatveien,64,1155,Lamberseter,Oslo,59.867472,10.822406,Feltspatveien 64
+1206,Torvbakkgata,12,550,hammer,Oslo,59.919699,10.757123,Torvbakkgata 12
+1207,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+1208,Ekebergveien,235,1162,Ekebergveien,Oslo,59.861082,10.799914,Ekebergveien 235
+1209,Grønlandsleiret,10,190,Vaterland,Oslo,59.912518,10.765009,Grønlandsleiret 10
+1210,Ekebergveien,228,1162,Ekebergveien,Oslo,59.861331,10.800955,Ekebergveien 228
+1211,Trondheimsveien,6,560,Enerhaugen,Oslo,59.919182,10.763353,Trondheimsveien 6
+1212,Nedre Prinsdals Vei,77,1263,Holmlia,Oslo,59.83362,10.807451,Nedre Prinsdals Vei 77
+1213,Vækerøveien,207,751,Rud,Oslo,59.948303,10.643922,Vækerøveien 207
+1214,Ole Vigs Gate,22,366,Majorstuen,Oslo,59.928427,10.719482,Ole Vigs Gate 22
+1215,Fredensborgveien,9B,177,hammer,Oslo,59.91787,10.747492,Fredensborgveien 9B
+1216,Veitvetveien,8,596,Erich Mogensøns Vei,Oslo,59.943985,10.847813,Veitvetveien 8
+1217,Romsås Senter,1,970,Ammerud,Oslo,59.963161,10.892858,Romsås Senter 1
+1218,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+1219,Thorvald Meyers Gate,2,555,Torshov,Oslo,59.930115,10.759986,Thorvald Meyers Gate 2
+1220,Søndre Gate,8,550,hammer,Oslo,59.918712,10.758256,Søndre Gate 8
+1221,Dronning Eufemias gate,15,194,Vaterland,Oslo,59.907798,10.756419,Dronning Eufemias gate 15
+1222,Grønland,14,188,Vaterland,Oslo,59.913129,10.760871,Grønland 14
+1223,Tøyenbekken,14,134,Vaterland,Oslo,59.911282,10.760494,Tøyenbekken 14
+1224,Grønlandsleiret,15,190,Vaterland,Oslo,59.912256,10.764388,Grønlandsleiret 15
+1225,Erich Mogensøns Vei,38,594,Erich Mogensøns Vei,Oslo,59.943242,10.835478,Erich Mogensøns Vei 38
+1226,Brobekkveien,54,598,Linderud,Oslo,59.936258,10.827325,Brobekkveien 54
+1227,Frognerstranda,4,250,Skillebekk,Oslo,59.910364,10.705465,Frognerstranda 4
+1228,Storgata,25,184,hammer,Oslo,59.914012,10.751187999999999,Storgata 25
+1229,Sannergata,13,557,Torshov,Oslo,59.928403,10.763232,Sannergata 13
+1230,Nedre Slottsgate,1,157,St. Hanshaugen,Oslo,59.909845,10.740141,Nedre Slottsgate 1
+1231,Sommerrogata,17,255,Ruselokka,Oslo,59.914986,10.718172,Sommerrogata 17
+1232,Ruseløkkveien,26,251,Vika,Oslo,59.912665,10.726153,Ruseløkkveien 26
+1233,Olaf Ryes Plass,4,552,Fredensborg,Oslo,59.922639,10.757073,Olaf Ryes Plass 4
+1234,Markveien,35A,554,Fredensborg,Oslo,59.922222,10.757185,Markveien 35A
+1235,Fredensborgveien,42,177,hammer,Oslo,59.92039,10.749109,Fredensborgveien 42
+1236,Thorvald Meyers Gate,48,552,Fredensborg,Oslo,59.922952,10.759809,Thorvald Meyers Gate 48
+1237,Sjølyst plass,2,278,Skøyen,Oslo,59.920453,10.68219,Sjølyst plass 2
+1238,Haugerudsenteret,1,673,Lindeberg,Oslo,59.922674,10.8564,Haugerudsenteret 1
+1239,Storgata,47,182,hammer,Oslo,59.915589,10.755933,Storgata 47
+1240,Dronningens Gate,15,152,St. Hanshaugen,Oslo,59.910386,10.746016000000001,Dronningens Gate 15
+1241,Skovveien,3,257,Ruselokka,Oslo,59.9159,10.716192,Skovveien 3
+1242,Rådhusgata,21,158,Vika,Oslo,59.910626,10.738294,Rådhusgata 21
+1243,Grønland,10,188,Vaterland,Oslo,59.913369,10.76013,Grønland 10
+1244,Teglverksgata,2,553,Enerhaugen,Oslo,59.923855,10.764673,Teglverksgata 2
+1245,Lørenveien,44,585,Økern,Oslo,59.930662,10.793579,Lørenveien 44
+1246,Elisenbergveien,22,265,Gimlé,Oslo,59.919033999999996,10.706062,Elisenbergveien 22
+1247,,,0,Nydalen,Oslo,59.947002,10.775302,Storo storsenter
+1248,Trondheimsveien,16,560,Enerhaugen,Oslo,59.91976,10.765393,Trondheimsveien 16
+1249,Munkebekken,180,1061,Ellingsrud,Oslo,59.929488,10.916239,Munkebekken 180
+1250,Jacob Fayes vei,5,287,Bygdøy,Oslo,59.902878,10.674047,Jacob Fayes vei 5
+1251,Markveien,57,550,hammer,Oslo,59.919955,10.757219,Markveien 57
+1252,Storgata,23,184,hammer,Oslo,59.913892,10.75077,Storgata 23
+1253,,,0,St. Hanshaugen,Oslo,59.910579,10.74979,Pier 42
+1254,Henrik Ibsens gate,100,255,Ruselokka,Oslo,59.914153,10.718812,Henrik Ibsens gate 100
+1255,Oscars Gate,19,352,Homansbyen,Oslo,59.922558,10.726777,Oscars Gate 19
+1256,Schweigaards Gate,34,191,Vaterland,Oslo,59.910592,10.764933,Schweigaards Gate 34
+1257,President Harbitz' gate,4,259,Briskeby,Oslo,59.918836,10.715629,President Harbitz' gate 4
+1258,Grønlandsleiret,32,190,Grønland,Oslo,59.91162,10.766986,Grønlandsleiret 32
+1259,Dronning Eufemias Gate,28,191,Vaterland,Oslo,59.907732,10.759354,Dronning Eufemias Gate 28
+1260,Tryvannsveien,64,791,Lysebu,Oslo,59.985343,10.666594,Tryvannsveien 64
+1261,Fjordalléen,4,250,Aker Brygge,Oslo,59.909137,10.725161,Fjordalléen 4
+1262,Jernbanetorget,1,154,St. Hanshaugen,Oslo,59.910871,10.750735,Jernbanetorget 1
+1263,Stenersgata,10,184,hammer,Oslo,59.91327,10.752612,Stenersgata 10
+1264,Trondheimsveien,37,560,Enerhaugen,Oslo,59.921148,10.769711,Trondheimsveien 37
+1265,Frognerveien,67,266,Briskeby,Oslo,59.923972,10.702639,Frognerveien 67
+1266,Brynsalléen,4,667,Helsfyr,Oslo,59.910739,10.817051,Brynsalléen 4
+1267,Selma Ellefsens vei,2,581,Økern,Oslo,59.925423,10.807471,Selma Ellefsens vei 2
+1268,Vækerøveien,207,751,Rud,Oslo,59.948303,10.643922,Vækerøveien 207
+1269,Tore Hals Mejdells Vei,5,751,Rud,Oslo,59.946176,10.643484,Tore Hals Mejdells Vei 5
+1270,Sognsveien,77,855,Sogn,Oslo,59.949923,10.736031,Sognsveien 77
+1271,,,0,Briskeby,Oslo,59.927606,10.699016,Nr. 1: Geniemylder
+1272,Waldemar Thranes gate,72,175,Fredensborg,Oslo,59.928221,10.750506,Waldemar Thranes gate 72
+1273,Grorudveien,5,962,Ammerud,Oslo,59.958631,10.882408,Grorudveien 5
+1274,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+1275,Kongens Gate,10,153,St. Hanshaugen,Oslo,59.910438,10.742321,Kongens Gate 10
+1276,,,0,Manglerud,Oslo,59.892383,10.805036,Ryensvingen 5
+1277,Bogstadveien,53A,366,Majorstuen,Oslo,59.929534,10.71416,Bogstadveien 53A
+1278,Skøyenveien,43,375,Gimlé,Oslo,59.929176,10.687622,Skøyenveien 43
+1279,Mariboes Gate,7,183,hammer,Oslo,59.916377,10.750818,Mariboes Gate 7
+1280,Holbergs gate,19,166,hammer,Oslo,59.918914,10.733719,Holbergs gate 19
+1281,Smalgangen,44,188,Vaterland,Oslo,59.912598,10.761078,Smalgangen 44
+1282,Kristian Augusts gate,14,164,hammer,Oslo,59.916326,10.738592,Kristian Augusts gate 14
+1283,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+1284,Ole Brumms vei,1,979,Høybråten,Oslo,59.952259,10.910788,Ole Brumms vei 1
+1285,Markveien,58,550,hammer,Oslo,59.918985,10.757479,Markveien 58
+1286,Stockfleths Gate,51,461,Ila,Oslo,59.936501,10.752521999999999,Stockfleths Gate 51
+1287,Fridtjof Nansens Plass,4,160,Vika,Oslo,59.913219,10.734086,Fridtjof Nansens Plass 4
+1288,Maridalsveien,9C,178,Fredensborg,Oslo,59.921577,10.751032,Maridalsveien 9C
+1289,Hasleveien,31,575,Sindsen,Oslo,59.927946,10.786386,Hasleveien 31
+1290,Maridalsveien,153,461,Torshov,Oslo,59.937536,10.756509,Maridalsveien 153
+1291,Kirkeveien,64B,366,Majorstuen,Oslo,59.92917,10.71481,Kirkeveien 64B
+1292,Fredensborgveien,30,177,hammer,Oslo,59.919894,10.748361,Fredensborgveien 30
+1293,Bøkkerveien,4,579,Økern,Oslo,59.92698,10.793998,Bøkkerveien 4
+1294,Dronning Mauds Gate,10,250,Vika,Oslo,59.912902,10.727376,Dronning Mauds Gate 10
+1295,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+1296,Sandakerveien,28,473,Torshov,Oslo,59.934582,10.76187,Sandakerveien 28
+1297,Eiriks Gate,2,650,Grønland,Oslo,59.91161,10.771159,Eiriks Gate 2
+1298,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+1299,Toftes Gate,19,556,Torshov,Oslo,59.929486,10.76055,Toftes Gate 19
+1300,Ekebergveien,103,1178,Ekeberg,Oslo,59.891199,10.775637,Ekebergveien 103
+1301,Brugata,3,186,hammer,Oslo,59.914342,10.754069,Brugata 3
+1302,Hesselbergs gate,6A,555,Torshov,Oslo,59.927938,10.761656,Hesselbergs gate 6A
+1303,Langgata,2B,566,Enerhaugen,Oslo,59.924067,10.768339,Langgata 2B
+1304,Middelthuns Gate,28,368,Majorstuen,Oslo,59.928119,10.708111,Middelthuns Gate 28
+1305,Dronning Eufemias gate,12,191,Vaterland,Oslo,59.908208,10.757428,Dronning Eufemias gate 12
+1306,Karenslyst Allé,55,277,Skøyen,Oslo,59.921501,10.67841,Karenslyst Allé 55
+1307,Trondheimsveien,14A,560,Enerhaugen,Oslo,59.919653,10.76467,Trondheimsveien 14A
+1308,Helgesens Gate,50,553,Enerhaugen,Oslo,59.923568,10.76582,Helgesens Gate 50
+1309,Youngs Gate,4,181,hammer,Oslo,59.914549,10.751016,Youngs Gate 4
+1310,Vulkan,7,178,Fredensborg,Oslo,59.922571,10.751958,Vulkan 7
+1311,Ankerveien,127,766,Holmenkollen,Oslo,59.962297,10.6388,Ankerveien 127
+1312,Parkveien,12,350,Homansbyen,Oslo,59.920818,10.728916,Parkveien 12
+1313,Operagata,39,194,Vaterland,Oslo,59.906813,10.756127,Operagata 39
+1314,Torggata,23,183,hammer,Oslo,59.91662,10.752774,Torggata 23
+1315,Mariboes gate,20,183,hammer,Oslo,59.918151,10.752473,Hausmanns gate barnehage Espira
+1316,Lille Stranden,10,252,Aker Brygge,Oslo,59.908422,10.723568,Lille Stranden 10
+1317,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+1318,Ullevålsveien,61,171,Bislett,Oslo,59.926514,10.738395,Ullevålsveien 61
+1319,Brobekkveien,100,582,Økern,Oslo,59.928534,10.83127,Brobekkveien 100
+1320,Sonja Henies Plass,3,185,Vaterland,Oslo,59.912658,10.756218,Sonja Henies Plass 3
+1321,Hegdehaugsveien,1,352,Homansbyen,Oslo,59.920426,10.732837,Hegdehaugsveien 1
+1322,Operagata,71B,194,Vaterland,Oslo,59.906266,10.757979,Operagata 71B
+1323,Tordenskiolds Gate,6,160,Vika,Oslo,59.91278,10.736345,Tordenskiolds Gate 6
+1324,Colbjørnsens gate,1,256,Ruselokka,Oslo,59.916851,10.722485,Colbjørnsens gate 1
+1325,Hoffsveien,15,275,Smedstad,Oslo,59.9259,10.675415,Hoffsveien 15
+1326,Trondheimsveien,12A,560,Enerhaugen,Oslo,59.919628,10.764339,Trondheimsveien 12A
+1327,Dronning Eufemias gate,23,194,Vaterland,Oslo,59.907545,10.758183,Dronning Eufemias gate 23
+1328,Schweigaards Gate,54,656,Grønland,Oslo,59.908629,10.769051,Schweigaards Gate 54
+1329,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+1330,Kongeveien,5,787,Holmenkollen,Oslo,59.962632,10.666289,Kongeveien 5
+1331,Høyenhallveien,64,678,Ryen,Oslo,59.900636,10.815478,Høyenhallveien 64
+1332,Trondheimsveien,320,593,Erich Mogensøns Vei,Oslo,59.944078,10.833223,Trondheimsveien 320
+1333,Hegdehaugsveien,31,352,Homansbyen,Oslo,59.92216,10.727241,Hegdehaugsveien 31
+1334,Hammersborggata,9,181,hammer,Oslo,59.915036,10.752189,Hammersborggata 9
+1335,Helgesens gate,44B,553,Enerhaugen,Oslo,59.923651,10.76505,Helgesens gate 44B
+1336,Gydas Vei,4,363,Majorstuen,Oslo,59.932856,10.713572,Gydas Vei 4
+1337,Thorvald Meyers Gate,32,555,Fredensborg,Oslo,59.924813,10.759517,Thorvald Meyers Gate 32
+1338,Tøyengata,2,190,Vaterland,Oslo,59.91278,10.76392,Tøyengata 2
+1339,Grefsenveien,57,487,Nydalen,Oslo,59.94536,10.780555,Grefsenveien 57
+1340,Slemdalsveien,1,369,Majorstuen,Oslo,59.930309,10.715419,Slemdalsveien 1
+1341,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+1342,Sognsveien,75,855,Sogn,Oslo,59.948522,10.734687,Sognsveien 75
+1343,Fossumberget,49,983,Høybråten,Oslo,59.959257,10.933117,Fossumberget 49
+1344,,,0,Skillebekk,Oslo,59.912647,10.711385,Skillebekkparken
+1345,Stockfleths gate,60,461,Ila,Oslo,59.937482,10.751917,Stockfleths gate 60
+1346,Calmeyers Gate,9,183,hammer,Oslo,59.916252,10.754487,Calmeyers Gate 9
+1347,Calmeyers Gate,11,183,hammer,Oslo,59.916259,10.754683,Calmeyers Gate 11
+1348,,,0,Ryen,Oslo,59.897698,10.814762,Manglerud senter
+1349,Tollbugata,17,152,St. Hanshaugen,Oslo,59.910474,10.744385,Tollbugata 17
+1350,Sommerrogata,1,255,Ruselokka,Oslo,59.915245,10.719612,Sommerrogata 1
+1351,,,0,Skøyen,Oslo,59.91367,10.64475,Drammensveien 288
+1352,St. Edmunds Vei,55,280,Smedstad,Oslo,59.925703,10.667545,St. Edmunds Vei 55
+1353,Nydalsveien,33,484,Nydalen,Oslo,59.949113,10.766375,Nydalsveien 33
+1354,Nydalen allé,55,485,Nydalen,Oslo,59.947863,10.771625,Nydalen allé 55
+1355,Bernt Ankers gate,37,183,hammer,Oslo,59.917023,10.75027,Bernt Ankers gate 37
+1356,Lofsrudveien,6,1281,Dal,Oslo,59.848419,10.829194,Lofsrudveien 6
+1357,Landgangen,1,252,Aker Brygge,Oslo,59.907662,10.72105,Landgangen 1
+1358,Tøyengata,1,190,Vaterland,Oslo,59.912629,10.764011,Tøyengata 1
+1359,Frognerveien,33,263,Briskeby,Oslo,59.918948,10.710067,Frognerveien 33
+1360,Sandakerveien,102D,484,Torshov,Oslo,59.944756,10.771561,Sandakerveien 102D
+1361,Trondheimsveien,187,570,Hasle,Oslo,59.935021,10.780591,Trondheimsveien 187
+1362,Rostockgata,64,194,Vaterland,Oslo,59.906162,10.760164,Rostockgata 64
+1363,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+1364,Dronningens gate,22,154,St. Hanshaugen,Oslo,59.910803,10.746863,Dronningens gate 22
+1365,Grefsenveien,94B,492,Kjelsås,Oslo,59.956074,10.785267,Grefsenveien 94B
+1366,Niels Juels Gate,25,257,Ruselokka,Oslo,59.916087,10.714144,Niels Juels Gate 25
+1367,Youngstorget,6,181,hammer,Oslo,59.915121,10.748418,Youngstorget 6
+1368,Sørkedalsveien,1,369,Majorstuen,Oslo,59.929923,10.713789,Sørkedalsveien 1
+1369,Rådhusbrygge 2,1,160,Vika,Oslo,59.909989,10.732819,Rådhusbrygge 2 1
+1370,Schweigaards Gate,54,656,Grønland,Oslo,59.908629,10.769051,Schweigaards Gate 54
+1371,Skinnerbakken,7,198,Bekkelaget,Oslo,59.865115,10.750253,Skinnerbakken 7
+1372,Storgata,22,184,hammer,Oslo,59.913837,10.751555,Storgata 22
+1373,Tordenskiolds Gate,1,160,Vika,Oslo,59.913277,10.736424,Tordenskiolds Gate 1
+1374,Økernveien,9,653,Grønland,Oslo,59.914864,10.77617,Økernveien 9
+1375,Youngstorget,6,181,hammer,Oslo,59.915121,10.748418,Youngstorget 6
+1376,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+1377,St. Halvards gate,33,192,Gamle Oslo,Oslo,59.906048,10.77516,St. Halvards gate 33
+1378,Munkedamsveien,29,250,Aker Brygge,Oslo,59.91217,10.726725,Munkedamsveien 29
+1379,Stenersgata,1,50,Vaterland,Oslo,59.913019,10.752913,Stenersgata 1
+1380,Karenslyst Allé,2,278,Gimlé,Oslo,59.918396,10.686283,Karenslyst Allé 2
+1381,Henrik Ibsens gate,100,255,Ruselokka,Oslo,59.914153,10.718812,Henrik Ibsens gate 100
+1382,Sørkedalsveien,3B,369,Majorstuen,Oslo,59.930332,10.712859,Sørkedalsveien 3B
+1383,Thorvald Meyers Gate,36,555,Fredensborg,Oslo,59.924149,10.759853,Thorvald Meyers Gate 36
+1384,Møllergata,8,179,hammer,Oslo,59.914181,10.746586,Møllergata 8
+1385,Bygdøy Allé,3,257,Ruselokka,Oslo,59.914995,10.716774000000001,Bygdøy Allé 3
+1386,Bankplassen,1,151,St. Hanshaugen,Oslo,59.90892,10.742104,Bankplassen 1
+1387,Henrik Ibsens gate,90,255,Ruselokka,Oslo,59.914573,10.719421,Henrik Ibsens gate 90
+1388,Grev Wedels plass,2,151,St. Hanshaugen,Oslo,59.907189,10.741444,Grev Wedels plass 2
+1389,Rådhusgata,32,151,St. Hanshaugen,Oslo,59.910205,10.738916,Rådhusgata 32
+1390,Karoline Kristiansens Vei,3,661,Helsfyr,Oslo,59.913923,10.797616,Karoline Kristiansens Vei 3
+1391,Schleppegrells gate,30A,556,Torshov,Oslo,59.927366,10.764113,Schleppegrells gate 30A
+1392,Bjerregaards Gate,29,172,Fredensborg,Oslo,59.924794,10.746104,Bjerregaards Gate 29
+1393,Grønlandsleiret,79,190,Grønland,Oslo,59.909131,10.768163,Grønlandsleiret 79
+1394,Sandakerveien,106,484,Torshov,Oslo,59.945217,10.771976,Sandakerveien 106
+1395,Bernt Ankers gate,27,183,hammer,Oslo,59.916472,10.751166,Bernt Ankers gate 27
+1396,Harry Fetts vei,7B,667,Bryn,Oslo,59.902508,10.822657,Harry Fetts vei 7B
+1397,Bjørnerudveien,17,1266,Hauketo,Oslo,59.843624,10.815268,Bjørnerudveien 17
+1398,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+1399,Brugata,17,186,Vaterland,Oslo,59.913937,10.757415,Brugata 17
+1400,Kirkeveien,64B,366,Majorstuen,Oslo,59.92917,10.71481,Kirkeveien 64B
+1401,Dronning Eufemias Gate,18,191,Vaterland,Oslo,59.907836,10.758947,Dronning Eufemias Gate 18
+1402,Karl Johans gate,27,159,hammer,Oslo,59.913595,10.73997,Karl Johans gate 27
+1403,Bygdøy Allé,66,265,Gimlé,Oslo,59.91891,10.701171,Bygdøy Allé 66
+1404,,,0,Kongshavn,Oslo,59.886446,10.725319,Gressholmen
+1405,Møllergata,38,179,hammer,Oslo,59.917673,10.750294,Møllergata 38
+1406,Sandakerveien,72,484,Torshov,Oslo,59.942374,10.769046,Sandakerveien 72
+1407,Lakkegata,55,187,Enerhaugen,Oslo,59.916934,10.762468,Lakkegata 55
+1408,Brobekkveien,31B,598,Tonsenhagen,Oslo,59.939738,10.823703,Brobekkveien 31B
+1409,Thorvald Meyers gate,76A,550,Enerhaugen,Oslo,59.919405,10.759701,Thorvald Meyers gate 76A
+1410,Granebakken,54,1284,Ostmarkkapellet,Oslo,59.857467,10.829274999999999,Granebakken 54
+1411,Tjuvholmen Allé,2,252,Aker Brygge,Oslo,59.908836,10.723155,Tjuvholmen Allé 2
+1412,Vitaminveien,7,485,Nydalen,Oslo,59.947301,10.773794,Vitaminveien 7
+1413,Fredensborgveien,44,177,hammer,Oslo,59.920487,10.749257,Fredensborgveien 44
+1414,Sandakerveien,106,484,Torshov,Oslo,59.945217,10.771976,Sandakerveien 106
+1415,Sporveisgata,35,354,Bislett,Oslo,59.925191,10.725345,Sporveisgata 35
+1416,Gøteborggata,51,566,Torshov,Oslo,59.926925,10.770889,Gøteborggata 51
+1417,Skippergata,32,154,St. Hanshaugen,Oslo,59.911163,10.748352,Skippergata 32
+1418,Stranden,30,250,Aker Brygge,Oslo,59.908964,10.725717,Stranden 30
+1419,Ullern Allé,4,381,Smedstad,Oslo,59.926044,10.64165,Ullern Allé 4
+1420,Bergensveien,4A,963,Ammerud,Oslo,59.960169,10.880708,Bergensveien 4A
+1421,Lysebuveien,12,790,Lysebu,Oslo,59.977237,10.655501,Lysebuveien 12
+1422,Sandtakveien,5,491,Kjelsås,Oslo,59.955208,10.794138,Sandtakveien 5
+1423,Brugata,9,186,Vaterland,Oslo,59.913911,10.756104,Brugata 9
+1424,Stenersgata,2C,184,hammer,Oslo,59.91315,10.751443,Stenersgata 2C
+1425,Konghellegata,8,570,Sindsen,Oslo,59.929641,10.778804,Konghellegata 8
+1426,Lindemans Gate,4,267,Gimlé,Oslo,59.921879,10.703419,Lindemans Gate 4
+1427,Storgata,17,184,hammer,Oslo,59.913662,10.750001,Storgata 17
+1428,Josefines gate,23,351,Homansbyen,Oslo,59.923094,10.725904,Josefines gate 23
+1429,Smalgangen,43,188,Vaterland,Oslo,59.912526,10.761607,Smalgangen 43
+1430,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1431,Bryggetorget,14,250,Aker Brygge,Oslo,59.909345,10.724432,Bryggetorget 14
+1432,Oberst Rodes Vei,104,1165,Hauketo,Oslo,59.85672,10.812012,Oberst Rodes Vei 104
+1433,Tjuvholmen allé,6,252,Aker Brygge,Oslo,59.908503,10.722822,Tjuvholmen allé 6
+1434,Thorvald Meyers Gate,72,552,Enerhaugen,Oslo,59.919841,10.759544,Thorvald Meyers Gate 72
+1435,Platous Gate,16,190,Grønland,Oslo,59.911264,10.76542,Platous Gate 16
+1436,Grubbegata,4,179,hammer,Oslo,59.913912,10.745227,Grubbegata 4
+1437,Ole Deviks Vei,26,666,Bryn,Oslo,59.917132,10.827849,Ole Deviks Vei 26
+1438,Fridtjof Nansens vei,28B,369,Majorstuen,Oslo,59.931655,10.704999,Fridtjof Nansens vei 28B
+1439,Sørkedalsveien,5B,369,Majorstuen,Oslo,59.930691,10.712197,Sørkedalsveien 5B
+1440,Filipstad brygge,2,252,Aker Brygge,Oslo,59.909915,10.722698,Filipstad brygge 2
+1441,Brobekkveien,80,582,Økern,Oslo,59.93206,10.831542,Brobekkveien 80
+1442,Møllergata,8,179,hammer,Oslo,59.914181,10.746586,Møllergata 8
+1443,Youngs gate,19,181,hammer,Oslo,59.915119,10.750084,Youngs gate 19
+1444,Torggata,16B,181,hammer,Oslo,59.915926,10.751005,Torggata 16B
+1445,Bergensgata,2,468,Torshov,Oslo,59.939992,10.758913,Bergensgata 2
+1446,Operagata,6,150,Vaterland,Oslo,59.908239,10.7536,Operagata 6
+1447,,,0,Bryn,Oslo,59.913651,10.841087,Tveita senter
+1448,Stockfleths gate,53A,461,Ila,Oslo,59.936844,10.752464,Stockfleths gate 53A
+1449,Kjelsåsveien,18,488,Kjelsås,Oslo,59.944225,10.786392,Kjelsåsveien 18
+1450,Korsgata,31,551,Enerhaugen,Oslo,59.919968,10.759008,Korsgata 31
+1451,C. J. Hambros Plass,2,164,hammer,Oslo,59.915999,10.741089,C. J. Hambros Plass 2
+1452,Dronning Eufemias Gate,32,191,Vaterland,Oslo,59.907486,10.760352,Dronning Eufemias Gate 32
+1453,Sørengkaia,99,194,St. Hanshaugen,Oslo,59.902836,10.753338,Sørengkaia 99
+1454,Deichmans Gate,6,178,hammer,Oslo,59.919191,10.749992,Deichmans Gate 6
+1455,Arbeidersamfunnets Plass,1,181,hammer,Oslo,59.915518,10.751805,Arbeidersamfunnets Plass 1
+1456,Brugata,10,186,hammer,Oslo,59.914009,10.754819,Brugata 10
+1457,Munkedamsveien,59B,244,Aker Brygge,Oslo,59.911043,10.721575,Munkedamsveien 59B
+1458,,,0,Holmlia,Oslo,59.838511,10.795671,Ravnåsveien 1-3
+1459,Nils Bays vei,78,855,Sogn,Oslo,59.951139,10.734874,Nils Bays vei 78
+1460,Trygve Lies Plass,1,1051,Lindeberg,Oslo,59.942157,10.897744,Trygve Lies Plass 1
+1461,Trondheimsveien,8,560,Enerhaugen,Oslo,59.919274,10.763718,Trondheimsveien 8
+1462,Frognerveien,58,266,Briskeby,Oslo,59.922323,10.704395,Frognerveien 58
+1463,Sørkedalsveien,5B,369,Majorstuen,Oslo,59.930691,10.712197,Sørkedalsveien 5B
+1464,Stranden,3,250,Aker Brygge,Oslo,59.910171,10.727808,Stranden 3
+1465,Maridalsveien,256,872,Torshov,Oslo,59.946396,10.759893,Maridalsveien 256
+1466,Olaf Ryes plass,11,552,Fredensborg,Oslo,59.923492,10.758325,Olaf Ryes plass 11
+1467,Markveien,57,550,hammer,Oslo,59.919955,10.757219,Markveien 57
+1468,Holmenkollveien,200,791,Lysebu,Oslo,59.977545,10.677378,Holmenkollveien 200
+1469,Olaf Ryes Plass,12,552,Fredensborg,Oslo,59.923489000000004,10.75863,Olaf Ryes Plass 12
+1470,Storgata,5,155,St. Hanshaugen,Oslo,59.913199,10.748485,Storgata 5
+1471,Norbygata,56,190,Vaterland,Oslo,59.913141,10.765646,Norbygata 56
+1472,Holmens Gate,5,250,Aker Brygge,Oslo,59.910309,10.725597,Holmens Gate 5
+1473,Dronningens gate,27,154,St. Hanshaugen,Oslo,59.912364,10.747907,Dronningens gate 27
+1474,Økernveien,190,580,Tonsenhagen,Oslo,59.936441,10.807879,Økernveien 190
+1475,Calmeyers Gate,8,183,hammer,Oslo,59.916042,10.753529,Calmeyers Gate 8
+1476,Kanalen,1,252,Aker Brygge,Oslo,59.908189,10.721233,Kanalen 1
+1477,Prinsens Gate,5,152,St. Hanshaugen,Oslo,59.9108,10.746303,Prinsens Gate 5
+1478,Trondheimsveien,60,565,Enerhaugen,Oslo,59.922795,10.771149,Trondheimsveien 60
+1479,Prinsens gate,18,152,St. Hanshaugen,Oslo,59.911286,10.743444,Prinsens gate 18
+1480,Bogstadveien,1,355,Homansbyen,Oslo,59.924093,10.725577,Bogstadveien 1
+1481,Briskebyveien,31,260,Briskeby,Oslo,59.922319,10.715401,Briskebyveien 31
+1482,Drammensveien,130,277,Gimlé,Oslo,59.921455,10.688035,Drammensveien 130
+1483,Jernbanetorget,2,154,St. Hanshaugen,Oslo,59.910765,10.749568,Jernbanetorget 2
+1484,Dronning Eufemias Gate,32,191,Vaterland,Oslo,59.907486,10.760352,Dronning Eufemias Gate 32
+1485,Stovner Senter,3,985,Høybråten,Oslo,59.961789,10.923727,Stovner Senter 3
+1486,Vitaminveien,31,485,Nydalen,Oslo,59.947235,10.77158,Vitaminveien 31
+1487,Operagata,11,194,Vaterland,Oslo,59.906867,10.755855,Operagata 11
+1488,Stortingsgata,2,158,Vika,Oslo,59.912849,10.738643,Stortingsgata 2
+1489,Gabels gate,37B,272,Skillebekk,Oslo,59.915359,10.710871,Gabels gate 37B
+1490,Sørkedalsveien,106,378,Smedstad,Oslo,59.941488,10.671457,Sørkedalsveien 106
+1491,Hoffsveien,15,275,Smedstad,Oslo,59.9259,10.675415,Hoffsveien 15
+1492,Mariboes gate,20,183,hammer,Oslo,59.918151,10.752473,Hausmanns gate barnehage Espira
+1493,Ivan Bjørndals Gate,25,472,Torshov,Oslo,59.938237,10.763714,Ivan Bjørndals Gate 25
+1494,St. Olavs Gate,31,166,hammer,Oslo,59.917914,10.734969,St. Olavs Gate 31
+1495,Etterstadsletta,68,659,Helsfyr,Oslo,59.907952,10.805497,Etterstadsletta 68
+1496,Kirkeveien,51,368,Majorstuen,Oslo,59.927656999999996,10.713796,Kirkeveien 51
+1497,Mariholtveien,200,1061,,Oslo,59.891648,10.907346,Mariholtveien 200
+1498,Mandalls gate,10,190,Vaterland,Oslo,59.911007,10.763015,Mandalls gate 10
+1499,Sørkedalsveien,1014,758,,Oslo,60.016797,10.612043,Sørkedalsveien 1014
+1500,Niels Juels Gate,33,257,Ruselokka,Oslo,59.917426,10.715493,Niels Juels Gate 33
+1501,Henrik Ibsens gate,60C,255,Ruselokka,Oslo,59.914992,10.720439,Henrik Ibsens gate 60C
+1502,Toftes gate,20B,556,Torshov,Oslo,59.928362,10.761482,Toftes gate 20B
+1503,Thorvald Meyers gate,47B,555,Fredensborg,Oslo,59.924132,10.758592,Thorvald Meyers gate 47B
+1504,St. Halvards gate,33,192,Gamle Oslo,Oslo,59.906048,10.77516,St. Halvards gate 33
+1505,Bogstadveien,64,366,Majorstuen,Oslo,59.928574,10.716006,Bogstadveien 64
+1506,Motzfeldts Gate,3,187,Vaterland,Oslo,59.91352,10.762321,Motzfeldts Gate 3
+1507,Bogstadveien,53A,366,Majorstuen,Oslo,59.929534,10.71416,Bogstadveien 53A
+1508,Lilleakerveien,31,283,Skøyen,Oslo,59.920081,10.636469,Lilleakerveien 31
+1509,Youngs Gate,4,181,hammer,Oslo,59.914549,10.751016,Youngs Gate 4
+1510,Lille Stranden,4,252,Aker Brygge,Oslo,59.908246,10.723255,Lille Stranden 4
+1511,Skovveien,4,257,Ruselokka,Oslo,59.915809,10.715559,Skovveien 4
+1512,Sørkedalsveien,3B,369,Majorstuen,Oslo,59.930332,10.712859,Sørkedalsveien 3B
+1513,Kristian IV''s Gate,4,164,hammer,Oslo,59.914895,10.739744,Kristian IV''s Gate 4
+1514,Parkveien,12,350,Homansbyen,Oslo,59.920818,10.728916,Parkveien 12
+1515,Munkedamsveien,62,270,Filipstad,Oslo,59.911394,10.71885,Munkedamsveien 62
+1516,Dronning Eufemias Gate,28,191,Vaterland,Oslo,59.907732,10.759354,Dronning Eufemias Gate 28
+1517,Bygdøy allé,8,262,Ruselokka,Oslo,59.915694,10.713251,Bygdøy allé 8
+1518,Nedre Kalbakkvei,2,950,Ammerud,Oslo,59.951422,10.867129,Nedre Kalbakkvei 2
+1519,Waldemar Thranes Gate,9,171,Fredensborg,Oslo,59.924358,10.742076,Waldemar Thranes Gate 9
+1520,Karl Johans gate,18 C,0,St. Hanshaugen,Oslo,59.912638,10.741861,Karl Johans gate 18 C
+1521,Grensen,17,159,St. Hanshaugen,Oslo,59.91416,10.742571,Grensen 17
+1522,Parkveien,1A,350,Homansbyen,Oslo,59.922465,10.73182,Parkveien 1A
+1523,Vulkan,5,178,Fredensborg,Oslo,59.922427,10.751924,Vulkan 5
+1524,Torggata,13,181,hammer,Oslo,59.915206,10.750215,Torggata 13
+1525,Strømsveien,1,657,Gamle Oslo,Oslo,59.907955,10.782987,Strømsveien 1
+1526,Thorvald Meyers gate,49,555,Fredensborg,Oslo,59.92401,10.758884,Thorvald Meyers gate 49
+1527,Stenersgata,2C,184,hammer,Oslo,59.91315,10.751443,Stenersgata 2C
+1528,Nordre Gate,2,551,Fredensborg,Oslo,59.922148,10.754109,Nordre Gate 2
+1529,Nils Hansens Vei,15,667,Helsfyr,Oslo,59.910794,10.8205,Nils Hansens Vei 15
+1530,Normannsgata,18,655,Grønland,Oslo,59.909756,10.779989,Normannsgata 18
+1531,Hoffsveien,92,377,Smedstad,Oslo,59.936898,10.683487,Hoffsveien 92
+1532,Haugerudsenteret,1,673,Lindeberg,Oslo,59.922674,10.8564,Haugerudsenteret 1
+1533,Tjuvholmen Allé,14,252,Aker Brygge,Oslo,59.907898,10.721969,Tjuvholmen Allé 14
+1534,Akershusstranda,25,150,St. Hanshaugen,Oslo,59.901814,10.741166,Akershusstranda 25
+1535,Rådhusgata,27,158,Vika,Oslo,59.911155,10.735915,Rådhusgata 27
+1536,Sørengkaia,146,194,St. Hanshaugen,Oslo,59.901246,10.752265,Sørengkaia 146
+1537,Hausmanns Gate,23,182,hammer,Oslo,59.91718,10.754816,Hausmanns Gate 23
+1538,Maridalsveien,4B,178,hammer,Oslo,59.919662,10.751164,Maridalsveien 4B
+1539,Refstadveien,44,589,Tonsenhagen,Oslo,59.942033,10.808013,Refstadveien 44
+1540,Østerli Terrasse,17,1185,Bøler,Oslo,59.884217,10.811785,Østerli Terrasse 17
+1541,Essendrops Gate,8,368,Majorstuen,Oslo,59.929277,10.710253999999999,Essendrops Gate 8
+1542,Bentsegata,2,465,Torshov,Oslo,59.937981,10.756819,Bentsegata 2
+1543,Rådhusgata,28,151,St. Hanshaugen,Oslo,59.909831,10.740738,Rådhusgata 28
+1544,Dronning Eufemias Gate,14,191,Vaterland,Oslo,59.908205,10.757843,Dronning Eufemias Gate 14
+1545,Waldemar Thranes Gate,32,171,Fredensborg,Oslo,59.925006,10.742655,Waldemar Thranes Gate 32
+1546,Hagegata,22,653,Grønland,Oslo,59.914421,10.775439,Hagegata 22
+1547,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+1548,Huk aveny,56,287,Bygdøy,Oslo,59.89911,10.678159,Huk aveny 56
+1549,Romsås Senter,1,970,Ammerud,Oslo,59.963161,10.892858,Romsås Senter 1
+1550,Sandakerveien,22,473,Torshov,Oslo,59.934002,10.760349,Sandakerveien 22
+1551,Bergensgata,5,468,Torshov,Oslo,59.941001,10.759633000000001,Bergensgata 5
+1552,Kirkeveien,11,260,Briskeby,Oslo,59.924188,10.708315,Kirkeveien 11
+1553,Tollbugata,17,152,St. Hanshaugen,Oslo,59.910474,10.744385,Tollbugata 17
+1554,Lilleakerveien,23,283,Skøyen,Oslo,59.918945,10.636636,Lilleakerveien 23
+1555,,,0,,Oslo,60.041422,10.755485,Øyungsdammen Ø
+1556,Bygdøy allé,65,265,Gimlé,Oslo,59.918931,10.70268,Bygdøy allé 65
+1557,Sars' gate,1,562,Enerhaugen,Oslo,59.920134,10.770992,Sars' gate 1
+1558,Museumsveien,10,287,Bygdøy,Oslo,59.907485,10.686716,Museumsveien 10
+1559,Fridtjof Nansens Plass,5,160,Vika,Oslo,59.913222,10.734444,Fridtjof Nansens Plass 5
