@@ -1,0 +1,45 @@
+Aamer, Aariz, Aayan, Abas, Abbas, Abd, Abdalla, Abdallah, Abdel, Abdelaziz, Abdelghani, Abdelhadi, Abdelhafid, Abdelhak, Abdelhakim, Abdelhalim, Abdelilah, Abdeljalil, Abdelkader, Abdelkarim, Abdelkrim, Abdellah, Abdelouahab, Abdelouahed, Abdelrahman, Abdelwahab, Abdennour, Abderrahman, Abderrazak, Abdi, Abdiaziz, Abdifatah, Abdikarim, Abdimalik Abdinasir, Abdiqani, Abdirahman, Abdirashid, Abdirisaq, Abdo, Abdul, Abdulahi, Abdulaziz, Abdulkader, Abdulkadir, Abdulkarim, Abdulla, Abdullah, Abdullahi, Abdulqadir, Abdulrahim, Abdulrahman, Abdulwahab, Abdur, Abdurrahim, Abdurrahman, Abed, Abeer, Abid, Abir, Abu, Abubakar, Abu Bakr, Abubakr, Abukar, Abul, Achraf, Adama, Adan, Adane, Adem, Aden, Adham, Adib, Adil, Adlan, Adnan, Afnan, Ahad, Ahmad, Ahmed, Ahmer, Ahmet, Ahmir, Ahsan, Ain, Aissa, Ajmal, Akbar, Akif, Akmal, Akram, Ala, Alaa, Aladdin, Aladin, Alam, Albi, Ali, Altaf, Aly, Alyan, Amaan, Amad, Amal, Aman, Amani, Amanullah, Amar, Amara, Ameen, Ameer, Amel, Amer, Amil, Amin, Amine, Aminullah, Amir, Amjad, Ammar, Anas, Anis, Anwar, Amor, Amr, Amran, Amro, Amrullah, Anees, Anes, Aniq, Anouar, Aqeel, Aqib, Aram, Aran, Arham, Arib, Arif, Armaan, Arshia, Asaad, Asadullah, Asef, Ashab, Ashad, Ashiq, Artin, Asad, Asghar, Ashraf, Asif, Asim, Askar, Aslam, Assad, Assem, Ata, Atef, Atif, Atiq, Atta, Aun, Ayan, Ayat, Ayham, Aylan, Ayman, Aymen, Ayoob, Ayoub, Ayser, Ayub, Azaan, Azam, Azeem, Azer, Azim, Aziz, Azmat, Azmi
+
+Bachir, Badar, Bader, Badr, Badri, Baher, Bahri, Bakary, Ban, Bandar, Bara, Baraa, Barak, Basam, Basel, Basem, Bashar, Bashir, Basma, Basri, Bassam, Bechir, Belal, Belgacem, Bilal, Bilel, Billal, Boualem, Bouchaib, Brahim, Burhan
+
+Charbel, Cherif, Chokri
+
+Damir, Danial, Daniyal, Daood, Daoud, Darwish, Dawoud, Daud, Deen, Dima, Din, Djamel, Driss
+
+Ebrahim, Edin, Edris, Ehab, Eisa, Eldin, Elif, Elyas, Emad, Emal, Eman, Emin, Emir, Esmat, Essam, Eyad
+
+Fadel, Fadi, Fadil, Fahad, Faheem, Fahim, Fahmi, Faik, Faisal, Faiz, Faizan, Faizullah, Faouzi, Farah, Faran, Faraz, Fares, Farhaan, Farhad, Farhan, Farhat, Farid, Faris, Faruk, Fateh, Fauzi, Fawaz, Fayaz, Faycal, Fayek, Fayeq, Fayez, Faysal, Fayyaz, Fazli, Feras, Fethi, Fida, Firas, Fouad, Fuad
+
+Gamal, Ghassan, Ghazi, Ghias, Ghulam
+
+Haaris, Habib, Habil, Hadi, Hadj, Hafez, Hafid, Hafiz, Hafs, Haidar, Haider, Haitham, Haithem, Hajar, Hakim, Halim, Hamad, Hamada, Hamdan, Hamdi, Hamed, Hamid, Hamidullah, Hammad, Hamoud, Hamza, Hamzah, Hamzeh, Hani, Hannah, Hannan, Haroun, Harun, Hasan, Hashim, Hassan, Hassane, Hassen, Hatem, Hayat, Hayder, Hazar, Hazem, Hazim, Haziq, Hedi, Helmi, Hemin, Hesham, Hicham, Hichem, Hilal, Hilmi, Hisham, Hocine, Husain, Husam, Hussain, Hussam, Hussein, Huzaifah
+
+Ibo, Ibraheem, Ibrahem, Ibrahim, Idrees, Idris, Idriss, Iftikar, Ihsan, Ikram, Ilham, Ilies, Ilyas, Ilyass, Ilyes, Imad, Iman, Imran, Iram, Irfan, Ishak, Ishaq, Iskander, Islam, Islem, Ismail, Issa, Issam, Iyad, Izzat
+
+Jaafar, Jabbar, Jad, Jafar, Jalal, Jalil, Jama, Jamal, Jamel, Jamil, Jasim, Jasmin, Jawad, Jehad, Jibreel, Jibril, Jihad, Junaid, Jusef
+
+Kabir, Kader, Kadir, Kais, Kamal, Kamel, Kamil, Kamyar, Karam, Kareem, Karem, Karim, Kashif, Kasem, Kasim, Kassim, Kazi, Kazim, Khadar, Khadim, Khalaf, Khaled, Khaleel, Khalid, Khalif, Khalil, Khaliq, Khurram, Kifah, Kinan
+
+Lahbib, Lahcen, Laith, Lakhdar, Larbi, Latif, Lawen, Layth, Leith, Liban, Lin, Lotfi, Luay, Lukman, Luqman, Lyes
+
+Maan, Mabrouk, Madjid, Mahad, Mahamed, Mahammed, Mahamud, Mahboob, Mahdi, Maher, Mahir, Mahmod, Mahmood, Mahmoud, Majd, Majed, Majeed, Majid, Malek, Malik, Man, Manar, Manhal, Mannan, Mansoor, Mansor, Mansour, Mansur, Maqbool, Marouan, Marouane, Marwan, Masood, Masoud, Masud, Matin, Maytham, Md, Mehdi, Mediha, Mehmet, Merwan, Mhamed, Mikaeel, Mikhail, Milad, Miloud, Mimoun, Mirza, Misha, Mishal, Moataz, Moeen, Moez, Mohamad, Mohamed, Mohammad, Mohammed, Mohamoud, Mohanad, Mohand, Mohannad, Mohsen, Mohsin, Moiz, Moncef, Monir, Moosa, Morad, Mostafa, Mounir, Mouhamed, Mourad, Mousa, Moussa, Moustafa, Mubarak, Mubeen, Muhammad, Muhammed, Muhanad, Muhannad, Muhsen, Muiz, Mujahid, Mujtaba, Mukhtar, Mumin, Mumtaz, Munawar, Muneeb, Muneer, Munib, Munir, Murad, Murat, Murtada, Murtadha, Murtaza, Musa, Musab, Mushtaq, Muslim, Mustafa, Mustapha, Mutaz, Muzaffar
+
+Nabeel, Nabi, Nabih, Nabil, Nacer, Nadeem, Nader, Nadim, Nadir, Naeem, Nael, Naif, Nail, Naim, Najah, Najat, Najeeb, Najib, Najibullah, Najm, Naseem, Namir, Naoufal, Naqibullah, Naser, Nashwan, Nasih, Nasim, Nasir, Nasr, Nasratullah, Nasrullah, Nasser, Nauman, Naveed, Navid, Nawaf, Nazir, Nermin, Niam, Nidal, Nihad, Nihal, Nima, Nisar, Nizam, Nizar, Noh, Noha, Nohr, Noor, Nor, Nora, Nordin, Nour, Noureddine, Nourdin, Nouri, Nuh, Nur, Nuradin, Nure, Nureddin
+
+Odai, Omair, Omar, Omari, Omer, Omid, Omran, Osama, Osman, Ossama, Othman, Oussama
+
+Qadir, Qais, Qaisar, Qaiser, Qamar, Qasem, Qasim
+
+Rabah, Rabih, Rachid, Radwan, Raed, Rafi, Rafik, Rahil, Rahim, Rahman, Rahmat, Rahmatullah, Raid, Raif, Raja, Rajab, Ramadan, Ramez, Rami, Ramiz, Ramy, Ramzi, Rana, Rani, Rany, Raouf, Rashid, Rasool, Rauf, Rawa, Rawan, Rayaan, Rayan, Rayhan, Rayyan, Razak, Reda, Redouane, Reyhan, Reza, Riad, Riadh, Rida, Ridwan, Riyad, Riyadh, Rizwan, Rohullah
+
+Saad, Saadi, Saba, Sabah, Saber, Sabir, Sabit, Sabri, Sadam, Sadek, Sadiq, Saeed, Safa, Safaa, Safwan, Saghir, Sahab, Sahil, Sahir, Said, Saif, Saim, Sajid, Sajjad, Salah, Salahuddin, Salam, Saleem, Saleh, Salem, Salih, Salim, Salman, Samad, Samar, Samee, Sameer, Sameh, Samer, Sami, Samih, Samir, Samiullah, Samran, Sana, Sanad, Sanaullah, Saqib, Sarwat, Sayed, Sayid, Sayyid, Seif, Serdal, Seyed, Shaban, Shadi, Shady, Shahed, Shaheer, Shahid, Shahin, Shahzad, Shakeela, Shamal, Shamim, Sharif, Sharifullah, Sharjeel, Shayaan, Sheik, Sheikh, Shukri, Sid, Sina, Sinan, Shoaib, Sohaib, Shokri, Shuaib, Siraj, Siwar, Skander, Slim, Smail, Sofian, Sofiane, Sofien, Soufian, Soufiane, Soliman, Suad, Subhan, Subhi, Sufian, Sufjan, Sufyan, Suhaib, Suhail, Sulaiman, Sulayman, Suleman, Suleyman, Sulman, Sultan, Suman, Syed
+
+Taha, Tahar, Taher, Tahir, Tahsin, Taib, Taif, Talal, Talha, Tarek, Tamer, Tamim, Taoufik, Taqi, Tareq, Tariq, Tasneem, Tasnim, Taym, Taysir, Tayyab, Twana
+
+Uday, Ullah, Umair, Umar, Usman, Uthman, Uzair
+
+Waad, Wael, Wafa, Wahab, Waheed, Wahid, Wajahat, Wajid, Waleed, Wali, Walid, Waqar, Waqas, Ward, Waseem, Wasim, Wassim, Wazir, Wesam, Wisam, Wissam, Wissem
+
+Yacine, Yacoub, Yahia, Yahya, Yakub, Yaman, Yamen, Yamin, Yaqoob, Yaqub, Yaseen, Yaser, Yasin, Yasir, Yasser, Yassin, Yassine, Yassir, Yawar, Yazan, Yehia, Yonas, Yones, Yonis, Yosef, Yoseph, Yosief, Youcef, Younes, Youness, Younis, Yousef, Yousif, Youssef, Yousuf, Yunis, Yunus, Yusef, Yusuf
+
+Zabihullah, Zacharias, Zafar, Zahid, Zahida, Zahir, Zaid, Zaim, Zain, Zakaria, Zakarias, Zakariya, Zaki, Zamir, Zayan, Zayd, Zaydan, Zayn, Zayyan, Zeid, Zein, Zia, Ziad, Zian, Zidane, Ziya, Zohaib, Zohan, Zouheir, Zouhir, Zubair, Zuber, Zuhair
